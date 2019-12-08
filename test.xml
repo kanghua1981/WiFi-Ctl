@@ -1,0 +1,8 @@
+<root>
+　　<OP>WIFIBASIC</OP>
+　　<Method>SET</Method>
+　　<WiFiBasic>
+    　　<Channel>0~12</Channel>
+    　　<Strenth>0~100</Strenth>
+　　</WiFiBasic>
+</root>

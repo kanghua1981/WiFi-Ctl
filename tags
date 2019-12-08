@@ -1,0 +1,1544 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AMP	./ixmlparser.h	43;"	d
+AMP	ixmlparser.h	43;"	d
+APOS	./ixmlparser.h	42;"	d
+APOS	ixmlparser.h	42;"	d
+APP_BINARY	./Makefile	/^APP_BINARY = connectmng$/;"	m
+APP_BINARY	Makefile	/^APP_BINARY = connectmng$/;"	m
+AP_INFO_ENTRY	./route.h	/^}AP_INFO_ENTRY;$/;"	t	typeref:struct:ap_info_entry_s
+AP_INFO_ENTRY	route.h	/^}AP_INFO_ENTRY;$/;"	t	typeref:struct:ap_info_entry_s
+AP_MSG_INVILID_ENCRYPTION	./openwrt/openwrt.c	52;"	d	file:
+AP_MSG_INVILID_ENCRYPTION	./qsdk/qsdk.c	52;"	d	file:
+AP_MSG_INVILID_ONOFF	./openwrt/openwrt.c	54;"	d	file:
+AP_MSG_INVILID_ONOFF	./qsdk/qsdk.c	54;"	d	file:
+AP_MSG_INVILID_PARAM	./openwrt/openwrt.c	56;"	d	file:
+AP_MSG_INVILID_PARAM	./qsdk/qsdk.c	56;"	d	file:
+AP_MSG_INVILID_POWER	./openwrt/openwrt.c	53;"	d	file:
+AP_MSG_INVILID_POWER	./qsdk/qsdk.c	53;"	d	file:
+AP_MSG_NULL_POINT	./openwrt/openwrt.c	51;"	d	file:
+AP_MSG_NULL_POINT	./qsdk/qsdk.c	51;"	d	file:
+AP_MSG_OK	./openwrt/openwrt.c	50;"	d	file:
+AP_MSG_OK	./qsdk/qsdk.c	50;"	d	file:
+AP_MSG_SYSTEM_ERR	./openwrt/openwrt.c	57;"	d	file:
+AP_MSG_SYSTEM_ERR	./qsdk/qsdk.c	57;"	d	file:
+AP_SSID_1	./openwrt/openwrt.c	65;"	d	file:
+AP_SSID_1	./qsdk/qsdk.c	65;"	d	file:
+Addr	./ralink/ramng.h	/^	unsigned char           Addr[6];$/;"	m	struct:_RT_802_11_MAC_ENTRY
+Aid	./ralink/ramng.h	/^	unsigned char           Aid;$/;"	m	struct:_RT_802_11_MAC_ENTRY
+ApIdx	./ralink/ramng.h	/^	unsigned char			ApIdx;$/;"	m	struct:_RT_802_11_MAC_ENTRY
+AvgRssi0	./ralink/ramng.h	/^	char                    AvgRssi0;$/;"	m	struct:_RT_802_11_MAC_ENTRY
+AvgRssi1	./ralink/ramng.h	/^	char                    AvgRssi1;$/;"	m	struct:_RT_802_11_MAC_ENTRY
+AvgRssi2	./ralink/ramng.h	/^	char                    AvgRssi2;$/;"	m	struct:_RT_802_11_MAC_ENTRY
+BEGIN_COMMENT	./ixmlparser.c	/^static const char *BEGIN_COMMENT = "<!--";$/;"	v	file:
+BEGIN_COMMENT	ixmlparser.c	/^static const char *BEGIN_COMMENT = "<!--";$/;"	v	file:
+BEGIN_DOCTYPE	./ixmlparser.c	/^static const char *BEGIN_DOCTYPE = "<!DOCTYPE";$/;"	v	file:
+BEGIN_DOCTYPE	ixmlparser.c	/^static const char *BEGIN_DOCTYPE = "<!DOCTYPE";$/;"	v	file:
+BEGIN_PI	./ixmlparser.c	/^static const char *BEGIN_PI = "<?";$/;"	v	file:
+BEGIN_PI	ixmlparser.c	/^static const char *BEGIN_PI = "<?";$/;"	v	file:
+BOOL	./ixml.h	/^typedef int BOOL;$/;"	t
+BOOL	ixml.h	/^typedef int BOOL;$/;"	t
+BW	./ralink/ramng.h	/^		unsigned short  BW:1;   \/\/channel bandwidth 20MHz or 40 MHz$/;"	m	struct:_MACHTTRANSMIT_SETTING::__anon7
+CDATANODENAME	./ixml.h	139;"	d
+CDATANODENAME	ixml.h	139;"	d
+CDEND	./ixmlparser.c	/^static const char *CDEND = "]]>";$/;"	v	file:
+CDEND	ixmlparser.c	/^static const char *CDEND = "]]>";$/;"	v	file:
+CDSTART	./ixmlparser.c	/^static const char *CDSTART = "<![CDATA[";$/;"	v	file:
+CDSTART	ixmlparser.c	/^static const char *CDSTART = "<![CDATA[";$/;"	v	file:
+COMPLETETAG	./ixmlparser.c	/^static const char *COMPLETETAG = "\/>";$/;"	v	file:
+COMPLETETAG	ixmlparser.c	/^static const char *COMPLETETAG = "\/>";$/;"	v	file:
+CONNECT_WIRED_MODE	./route.h	24;"	d
+CONNECT_WIRED_MODE	route.h	24;"	d
+CONNECT_WIRELESS_MODE	./route.h	25;"	d
+CONNECT_WIRELESS_MODE	route.h	25;"	d
+CloseServerSocket	./connectmng.c	/^void CloseServerSocket()$/;"	f
+CloseServerSocket	connectmng.c	/^void CloseServerSocket()$/;"	f
+ConnectedTime	./ralink/ramng.h	/^	unsigned int            ConnectedTime;$/;"	m	struct:_RT_802_11_MAC_ENTRY
+CreateServerSocket	./connectmng.c	/^int CreateServerSocket(int port)$/;"	f
+CreateServerSocket	connectmng.c	/^int CreateServerSocket(int port)$/;"	f
+DEC_NUMBERS	./ixmlparser.c	/^static const char *DEC_NUMBERS = "0123456789";$/;"	v	file:
+DEC_NUMBERS	ixmlparser.c	/^static const char *DEC_NUMBERS = "0123456789";$/;"	v	file:
+DOCUMENTNODENAME	./ixml.h	137;"	d
+DOCUMENTNODENAME	ixml.h	137;"	d
+DOMString	./ixml.h	42;"	d
+DOMString	ixml.h	42;"	d
+DhcpInfo	./route.h	/^struct DhcpInfo {$/;"	s
+DhcpInfo	route.h	/^struct DhcpInfo {$/;"	s
+Docptr	./ixml.h	/^typedef struct _IXML_Document *Docptr;$/;"	t	typeref:struct:_IXML_Document
+Docptr	ixml.h	/^typedef struct _IXML_Document *Docptr;$/;"	t	typeref:struct:_IXML_Document
+ENCRYPT_TYPE_NONE	./openwrt/openwrt.c	60;"	d	file:
+ENCRYPT_TYPE_NONE	./qsdk/qsdk.c	60;"	d	file:
+ENCRYPT_TYPE_WEP	./openwrt/openwrt.c	62;"	d	file:
+ENCRYPT_TYPE_WEP	./qsdk/qsdk.c	62;"	d	file:
+ENCRYPT_TYPE_WPA	./openwrt/openwrt.c	61;"	d	file:
+ENCRYPT_TYPE_WPA	./qsdk/qsdk.c	61;"	d	file:
+ENDTAG	./ixmlparser.c	/^static const char *ENDTAG = "<\/";$/;"	v	file:
+ENDTAG	ixmlparser.c	/^static const char *ENDTAG = "<\/";$/;"	v	file:
+END_COMMENT	./ixmlparser.c	/^static const char *END_COMMENT = "-->";$/;"	v	file:
+END_COMMENT	ixmlparser.c	/^static const char *END_COMMENT = "-->";$/;"	v	file:
+END_PI	./ixmlparser.c	/^static const char *END_PI = "?>";$/;"	v	file:
+END_PI	ixmlparser.c	/^static const char *END_PI = "?>";$/;"	v	file:
+EQUALS	./ixmlparser.c	/^static const char EQUALS = '=';$/;"	v	file:
+EQUALS	ixmlparser.c	/^static const char EQUALS = '=';$/;"	v	file:
+ESC_DEC	./ixmlparser.h	45;"	d
+ESC_DEC	ixmlparser.h	45;"	d
+ESC_HEX	./ixmlparser.h	44;"	d
+ESC_HEX	ixmlparser.h	44;"	d
+ETxFailCount	./oid.h	/^	unsigned long	ETxFailCount;$/;"	m	struct:__anon11
+ETxFailCount	oid.h	/^	unsigned long	ETxFailCount;$/;"	m	struct:__anon5
+ETxRetryCount	./oid.h	/^	unsigned long	ETxRetryCount;$/;"	m	struct:__anon11
+ETxRetryCount	oid.h	/^	unsigned long	ETxRetryCount;$/;"	m	struct:__anon5
+ETxSuccessCount	./oid.h	/^	unsigned long	ETxSuccessCount;$/;"	m	struct:__anon11
+ETxSuccessCount	oid.h	/^	unsigned long	ETxSuccessCount;$/;"	m	struct:__anon5
+E_OK	./connectmng.c	25;"	d	file:
+E_OK	connectmng.c	25;"	d	file:
+E_ROUTER_PARAM	./connectmng.c	27;"	d	file:
+E_ROUTER_PARAM	connectmng.c	27;"	d	file:
+E_ROUTER_PARAM_VALUE	./connectmng.c	28;"	d	file:
+E_ROUTER_PARAM_VALUE	connectmng.c	28;"	d	file:
+E_ROUTER_SYSTEM	./connectmng.c	26;"	d	file:
+E_ROUTER_SYSTEM	connectmng.c	26;"	d	file:
+E_ROUTER_XML_PARSE	./connectmng.c	29;"	d	file:
+E_ROUTER_XML_PARSE	connectmng.c	29;"	d	file:
+Entry	./oid.h	/^	RT_COUNTER_TXBF         Entry[MAX_NUMBER_OF_TXBF];$/;"	m	struct:__anon12
+Entry	./ralink/ramng.h	/^	RT_802_11_MAC_ENTRY      Entry[MAX_NUMBER_OF_MAC]; \/\/MAX_LEN_OF_MAC_TABLE = 32$/;"	m	struct:_RT_802_11_MAC_TABLE
+Entry	oid.h	/^	RT_COUNTER_TXBF         Entry[MAX_NUMBER_OF_TXBF];$/;"	m	struct:__anon6
+FALSE	./ixml.h	50;"	d
+FALSE	ixml.h	50;"	d
+GREATERTHAN	./ixmlparser.c	/^static const char GREATERTHAN = '>';$/;"	v	file:
+GREATERTHAN	ixmlparser.c	/^static const char GREATERTHAN = '>';$/;"	v	file:
+GT	./ixmlparser.h	41;"	d
+GT	ixmlparser.h	41;"	d
+GetIpAddr	./openwrt/openwrt.c	/^static int GetIpAddr(const char *relname,char *ipaddr)$/;"	f	file:
+GetIpAddr	./qsdk/qsdk.c	/^static int GetIpAddr(const char *relname,char *ipaddr)$/;"	f	file:
+HEX_NUMBERS	./ixmlparser.c	/^static const char *HEX_NUMBERS = "0123456789ABCDEFabcdef";$/;"	v	file:
+HEX_NUMBERS	ixmlparser.c	/^static const char *HEX_NUMBERS = "0123456789ABCDEFabcdef";$/;"	v	file:
+IN	./ixml.h	54;"	d
+IN	ixml.h	54;"	d
+INCDIR	./Makefile	/^INCDIR = .\/ $/;"	m
+INCDIR	Makefile	/^INCDIR = .\/ $/;"	m
+INOUT	./ixml.h	62;"	d
+INOUT	ixml.h	62;"	d
+ITxFailCount	./oid.h	/^	unsigned long	ITxFailCount;$/;"	m	struct:__anon11
+ITxFailCount	oid.h	/^	unsigned long	ITxFailCount;$/;"	m	struct:__anon5
+ITxRetryCount	./oid.h	/^	unsigned long	ITxRetryCount;$/;"	m	struct:__anon11
+ITxRetryCount	oid.h	/^	unsigned long	ITxRetryCount;$/;"	m	struct:__anon5
+ITxSuccessCount	./oid.h	/^	unsigned long	ITxSuccessCount;$/;"	m	struct:__anon11
+ITxSuccessCount	oid.h	/^	unsigned long	ITxSuccessCount;$/;"	m	struct:__anon5
+IXML_Attr	./ixml.h	/^} IXML_Attr;$/;"	t	typeref:struct:_IXML_ATTR
+IXML_Attr	ixml.h	/^} IXML_Attr;$/;"	t	typeref:struct:_IXML_ATTR
+IXML_CDATASection	./ixml.h	/^} IXML_CDATASection;$/;"	t	typeref:struct:_IXML_CDATASection
+IXML_CDATASection	ixml.h	/^} IXML_CDATASection;$/;"	t	typeref:struct:_IXML_CDATASection
+IXML_DOMSTRING_SIZE_ERR	./ixml.h	/^    IXML_DOMSTRING_SIZE_ERR             = 2,$/;"	e	enum:__anon9
+IXML_DOMSTRING_SIZE_ERR	ixml.h	/^    IXML_DOMSTRING_SIZE_ERR             = 2,$/;"	e	enum:__anon2
+IXML_Document	./ixml.h	/^} IXML_Document;$/;"	t	typeref:struct:_IXML_Document
+IXML_Document	ixml.h	/^} IXML_Document;$/;"	t	typeref:struct:_IXML_Document
+IXML_ERRORCODE	./ixml.h	/^} IXML_ERRORCODE;$/;"	t	typeref:enum:__anon9
+IXML_ERRORCODE	ixml.h	/^} IXML_ERRORCODE;$/;"	t	typeref:enum:__anon2
+IXML_Element	./ixml.h	/^} IXML_Element;$/;"	t	typeref:struct:_IXML_Element
+IXML_Element	ixml.h	/^} IXML_Element;$/;"	t	typeref:struct:_IXML_Element
+IXML_ElementStack	./ixmlparser.h	/^} IXML_ElementStack;$/;"	t	typeref:struct:_IXML_ElementStack
+IXML_ElementStack	ixmlparser.h	/^} IXML_ElementStack;$/;"	t	typeref:struct:_IXML_ElementStack
+IXML_FAILED	./ixml.h	/^    IXML_FAILED                         = 106,$/;"	e	enum:__anon9
+IXML_FAILED	ixml.h	/^    IXML_FAILED                         = 106,$/;"	e	enum:__anon2
+IXML_FILE_DONE	./ixml.h	/^    IXML_FILE_DONE                      = 104,$/;"	e	enum:__anon9
+IXML_FILE_DONE	ixml.h	/^    IXML_FILE_DONE                      = 104,$/;"	e	enum:__anon2
+IXML_HIERARCHY_REQUEST_ERR	./ixml.h	/^    IXML_HIERARCHY_REQUEST_ERR          = 3,$/;"	e	enum:__anon9
+IXML_HIERARCHY_REQUEST_ERR	ixml.h	/^    IXML_HIERARCHY_REQUEST_ERR          = 3,$/;"	e	enum:__anon2
+IXML_INDEX_SIZE_ERR	./ixml.h	/^    IXML_INDEX_SIZE_ERR                 = 1,$/;"	e	enum:__anon9
+IXML_INDEX_SIZE_ERR	ixml.h	/^    IXML_INDEX_SIZE_ERR                 = 1,$/;"	e	enum:__anon2
+IXML_INSUFFICIENT_MEMORY	./ixml.h	/^    IXML_INSUFFICIENT_MEMORY            = 102,$/;"	e	enum:__anon9
+IXML_INSUFFICIENT_MEMORY	ixml.h	/^    IXML_INSUFFICIENT_MEMORY            = 102,$/;"	e	enum:__anon2
+IXML_INUSE_ATTRIBUTE_ERR	./ixml.h	/^    IXML_INUSE_ATTRIBUTE_ERR            = 10,$/;"	e	enum:__anon9
+IXML_INUSE_ATTRIBUTE_ERR	ixml.h	/^    IXML_INUSE_ATTRIBUTE_ERR            = 10,$/;"	e	enum:__anon2
+IXML_INVALID_ACCESS_ERR	./ixml.h	/^    IXML_INVALID_ACCESS_ERR             = 15,$/;"	e	enum:__anon9
+IXML_INVALID_ACCESS_ERR	ixml.h	/^    IXML_INVALID_ACCESS_ERR             = 15,$/;"	e	enum:__anon2
+IXML_INVALID_CHARACTER_ERR	./ixml.h	/^    IXML_INVALID_CHARACTER_ERR          = 5,$/;"	e	enum:__anon9
+IXML_INVALID_CHARACTER_ERR	ixml.h	/^    IXML_INVALID_CHARACTER_ERR          = 5,$/;"	e	enum:__anon2
+IXML_INVALID_ITEM_NUMBER	./ixml.h	/^    IXML_INVALID_ITEM_NUMBER            = 107,$/;"	e	enum:__anon9
+IXML_INVALID_ITEM_NUMBER	ixml.h	/^    IXML_INVALID_ITEM_NUMBER            = 107,$/;"	e	enum:__anon2
+IXML_INVALID_MODIFICATION_ERR	./ixml.h	/^    IXML_INVALID_MODIFICATION_ERR       = 13,$/;"	e	enum:__anon9
+IXML_INVALID_MODIFICATION_ERR	ixml.h	/^    IXML_INVALID_MODIFICATION_ERR       = 13,$/;"	e	enum:__anon2
+IXML_INVALID_PARAMETER	./ixml.h	/^    IXML_INVALID_PARAMETER              = 105,$/;"	e	enum:__anon9
+IXML_INVALID_PARAMETER	ixml.h	/^    IXML_INVALID_PARAMETER              = 105,$/;"	e	enum:__anon2
+IXML_INVALID_STATE_ERR	./ixml.h	/^    IXML_INVALID_STATE_ERR              = 11,$/;"	e	enum:__anon9
+IXML_INVALID_STATE_ERR	ixml.h	/^    IXML_INVALID_STATE_ERR              = 11,$/;"	e	enum:__anon2
+IXML_NAMESPACE_ERR	./ixml.h	/^    IXML_NAMESPACE_ERR                  = 14,$/;"	e	enum:__anon9
+IXML_NAMESPACE_ERR	ixml.h	/^    IXML_NAMESPACE_ERR                  = 14,$/;"	e	enum:__anon2
+IXML_NODE_TYPE	./ixml.h	/^}   IXML_NODE_TYPE;$/;"	t	typeref:enum:__anon8
+IXML_NODE_TYPE	ixml.h	/^}   IXML_NODE_TYPE;$/;"	t	typeref:enum:__anon1
+IXML_NOT_FOUND_ERR	./ixml.h	/^    IXML_NOT_FOUND_ERR                  = 8,$/;"	e	enum:__anon9
+IXML_NOT_FOUND_ERR	ixml.h	/^    IXML_NOT_FOUND_ERR                  = 8,$/;"	e	enum:__anon2
+IXML_NOT_SUPPORTED_ERR	./ixml.h	/^    IXML_NOT_SUPPORTED_ERR              = 9,$/;"	e	enum:__anon9
+IXML_NOT_SUPPORTED_ERR	ixml.h	/^    IXML_NOT_SUPPORTED_ERR              = 9,$/;"	e	enum:__anon2
+IXML_NO_DATA_ALLOWED_ERR	./ixml.h	/^    IXML_NO_DATA_ALLOWED_ERR            = 6,$/;"	e	enum:__anon9
+IXML_NO_DATA_ALLOWED_ERR	ixml.h	/^    IXML_NO_DATA_ALLOWED_ERR            = 6,$/;"	e	enum:__anon2
+IXML_NO_MODIFICATION_ALLOWED_ERR	./ixml.h	/^    IXML_NO_MODIFICATION_ALLOWED_ERR    = 7,$/;"	e	enum:__anon9
+IXML_NO_MODIFICATION_ALLOWED_ERR	ixml.h	/^    IXML_NO_MODIFICATION_ALLOWED_ERR    = 7,$/;"	e	enum:__anon2
+IXML_NO_SUCH_FILE	./ixml.h	/^    IXML_NO_SUCH_FILE                   = 101,$/;"	e	enum:__anon9
+IXML_NO_SUCH_FILE	ixml.h	/^    IXML_NO_SUCH_FILE                   = 101,$/;"	e	enum:__anon2
+IXML_NamedNodeMap	./ixml.h	/^} IXML_NamedNodeMap;$/;"	t	typeref:struct:_IXML_NamedNodeMap
+IXML_NamedNodeMap	ixml.h	/^} IXML_NamedNodeMap;$/;"	t	typeref:struct:_IXML_NamedNodeMap
+IXML_NamespaceURI	./ixmlparser.h	/^} IXML_NamespaceURI;$/;"	t	typeref:struct:_IXML_NamespaceURI
+IXML_NamespaceURI	ixmlparser.h	/^} IXML_NamespaceURI;$/;"	t	typeref:struct:_IXML_NamespaceURI
+IXML_Node	./ixml.h	/^} IXML_Node;$/;"	t	typeref:struct:_IXML_Node
+IXML_Node	ixml.h	/^} IXML_Node;$/;"	t	typeref:struct:_IXML_Node
+IXML_NodeList	./ixml.h	/^} IXML_NodeList;$/;"	t	typeref:struct:_IXML_NodeList
+IXML_NodeList	ixml.h	/^} IXML_NodeList;$/;"	t	typeref:struct:_IXML_NodeList
+IXML_SUCCESS	./ixml.h	/^    IXML_SUCCESS                        = 0,$/;"	e	enum:__anon9
+IXML_SUCCESS	ixml.h	/^    IXML_SUCCESS                        = 0,$/;"	e	enum:__anon2
+IXML_SYNTAX_ERR	./ixml.h	/^    IXML_SYNTAX_ERR                     = 12,$/;"	e	enum:__anon9
+IXML_SYNTAX_ERR	ixml.h	/^    IXML_SYNTAX_ERR                     = 12,$/;"	e	enum:__anon2
+IXML_Text	./ixml.h	/^} IXML_Text;$/;"	t	typeref:struct:_IXML_Text
+IXML_Text	ixml.h	/^} IXML_Text;$/;"	t	typeref:struct:_IXML_Text
+IXML_WRONG_DOCUMENT_ERR	./ixml.h	/^    IXML_WRONG_DOCUMENT_ERR             = 4,$/;"	e	enum:__anon9
+IXML_WRONG_DOCUMENT_ERR	ixml.h	/^    IXML_WRONG_DOCUMENT_ERR             = 4,$/;"	e	enum:__anon2
+LESSTHAN	./ixmlparser.c	/^static const char LESSTHAN = '<';$/;"	v	file:
+LESSTHAN	ixmlparser.c	/^static const char LESSTHAN = '<';$/;"	v	file:
+LETTERTABLESIZE	./ixmlparser.c	134;"	d	file:
+LETTERTABLESIZE	ixmlparser.c	134;"	d	file:
+LFF	./ralink/ramng.c	/^static inline void LFF(char *value,int nvram,char* flash_key,int index)$/;"	f	file:
+LT	./ixmlparser.h	40;"	d
+LT	ixmlparser.h	40;"	d
+LastRxRate	./ralink/ramng.h	/^	unsigned int			LastRxRate;$/;"	m	struct:_RT_802_11_MAC_ENTRY
+Letter	./ixmlparser.c	/^static char_info_t Letter[] = {$/;"	v	file:
+Letter	ixmlparser.c	/^static char_info_t Letter[] = {$/;"	v	file:
+MACHTTRANSMIT_SETTING	./ralink/ramng.h	/^} MACHTTRANSMIT_SETTING;$/;"	t	typeref:union:_MACHTTRANSMIT_SETTING
+MAXVAL	./ixmlmembuf.h	39;"	d
+MAXVAL	ixmlmembuf.h	39;"	d
+MAX_CLIENT	./connectmng.c	31;"	d	file:
+MAX_CLIENT	connectmng.c	31;"	d	file:
+MAX_NUMBER_OF_MAC	./ralink/ramng.h	35;"	d
+MAX_NUMBER_OF_TXBF	./oid.h	193;"	d
+MAX_NUMBER_OF_TXBF	oid.h	193;"	d
+MCS	./ralink/ramng.h	/^		unsigned short  MCS:7;  \/\/ MCS$/;"	m	struct:_MACHTTRANSMIT_SETTING::__anon7
+MEMBUF_DEF_SIZE_INC	./ixmlmembuf.h	43;"	d
+MEMBUF_DEF_SIZE_INC	ixmlmembuf.h	43;"	d
+MINVAL	./ixmlmembuf.h	38;"	d
+MINVAL	ixmlmembuf.h	38;"	d
+MODE	./ralink/ramng.h	/^		unsigned short  MODE:2; \/\/ Use definition MODE_xxx.$/;"	m	struct:_MACHTTRANSMIT_SETTING::__anon7
+MacUptoLow	./connectmng.c	/^void MacUptoLow(char *macaddr)$/;"	f
+MacUptoLow	connectmng.c	/^void MacUptoLow(char *macaddr)$/;"	f
+MimoPs	./ralink/ramng.h	/^	unsigned char           MimoPs;  \/\/ 0:MMPS_STATIC, 1:MMPS_DYNAMIC, 3:MMPS_Enabled$/;"	m	struct:_RT_802_11_MAC_ENTRY
+NAMECHARTABLESIZE	./ixmlparser.c	211;"	d	file:
+NAMECHARTABLESIZE	ixmlparser.c	211;"	d	file:
+NameChar	./ixmlparser.c	/^static char_info_t NameChar[] = {$/;"	v	file:
+NameChar	ixmlparser.c	/^static char_info_t NameChar[] = {$/;"	v	file:
+Nodeptr	./ixml.h	/^typedef struct _IXML_Node    *Nodeptr;$/;"	t	typeref:struct:_IXML_Node
+Nodeptr	ixml.h	/^typedef struct _IXML_Node    *Nodeptr;$/;"	t	typeref:struct:_IXML_Node
+Num	./oid.h	/^	unsigned long           Num;$/;"	m	struct:__anon12
+Num	./ralink/ramng.h	/^	unsigned long            Num;$/;"	m	struct:_RT_802_11_MAC_TABLE
+Num	./route.h	/^    int Num;$/;"	m	struct:scan_ap_table_s
+Num	./route.h	/^    int Num;$/;"	m	struct:sta_mac_table_s
+Num	oid.h	/^	unsigned long           Num;$/;"	m	struct:__anon6
+Num	route.h	/^    int Num;$/;"	m	struct:scan_ap_table_s
+Num	route.h	/^    int Num;$/;"	m	struct:sta_mac_table_s
+OBJS	./Makefile	/^OBJS = $(SOURCE:.c=.o)$/;"	m
+OBJS	Makefile	/^OBJS = $(SOURCE:.c=.o)$/;"	m
+OID_802_11_ADD_KEY	./oid.h	78;"	d
+OID_802_11_ADD_KEY	oid.h	78;"	d
+OID_802_11_ADD_WEP	./oid.h	53;"	d
+OID_802_11_ADD_WEP	oid.h	53;"	d
+OID_802_11_ASSOCIATION_INFORMATION	./oid.h	57;"	d
+OID_802_11_ASSOCIATION_INFORMATION	oid.h	57;"	d
+OID_802_11_AUTHENTICATION_MODE	./oid.h	69;"	d
+OID_802_11_AUTHENTICATION_MODE	oid.h	69;"	d
+OID_802_11_BSSID	./oid.h	62;"	d
+OID_802_11_BSSID	oid.h	62;"	d
+OID_802_11_BSSID_LIST	./oid.h	90;"	d
+OID_802_11_BSSID_LIST	oid.h	90;"	d
+OID_802_11_BSSID_LIST_SCAN	./oid.h	60;"	d
+OID_802_11_BSSID_LIST_SCAN	oid.h	60;"	d
+OID_802_11_CONFIGURATION	./oid.h	79;"	d
+OID_802_11_CONFIGURATION	oid.h	79;"	d
+OID_802_11_DESIRED_RATES	./oid.h	66;"	d
+OID_802_11_DESIRED_RATES	oid.h	66;"	d
+OID_802_11_DISASSOCIATE	./oid.h	55;"	d
+OID_802_11_DISASSOCIATE	oid.h	55;"	d
+OID_802_11_ENCRYPTION_STATUS	./oid.h	86;"	d
+OID_802_11_ENCRYPTION_STATUS	oid.h	86;"	d
+OID_802_11_FRAGMENTATION_THRESHOLD	./oid.h	73;"	d
+OID_802_11_FRAGMENTATION_THRESHOLD	oid.h	73;"	d
+OID_802_11_INFRASTRUCTURE_MODE	./oid.h	70;"	d
+OID_802_11_INFRASTRUCTURE_MODE	oid.h	70;"	d
+OID_802_11_MESH_LINK_STATUS	./oid.h	153;"	d
+OID_802_11_MESH_LINK_STATUS	oid.h	153;"	d
+OID_802_11_MESH_LIST	./oid.h	154;"	d
+OID_802_11_MESH_LIST	oid.h	154;"	d
+OID_802_11_NETWORK_TYPES_SUPPORTED	./oid.h	43;"	d
+OID_802_11_NETWORK_TYPES_SUPPORTED	oid.h	43;"	d
+OID_802_11_NETWORK_TYPE_IN_USE	./oid.h	44;"	d
+OID_802_11_NETWORK_TYPE_IN_USE	oid.h	44;"	d
+OID_802_11_NUMBER_OF_ANTENNAS	./oid.h	49;"	d
+OID_802_11_NUMBER_OF_ANTENNAS	oid.h	49;"	d
+OID_802_11_PMKID	./oid.h	108;"	d
+OID_802_11_PMKID	oid.h	108;"	d
+OID_802_11_POWER_MODE	./oid.h	74;"	d
+OID_802_11_POWER_MODE	oid.h	74;"	d
+OID_802_11_PRIVACY_FILTER	./oid.h	56;"	d
+OID_802_11_PRIVACY_FILTER	oid.h	56;"	d
+OID_802_11_RELOAD_DEFAULTS	./oid.h	119;"	d
+OID_802_11_RELOAD_DEFAULTS	oid.h	119;"	d
+OID_802_11_REMOVE_KEY	./oid.h	77;"	d
+OID_802_11_REMOVE_KEY	oid.h	77;"	d
+OID_802_11_REMOVE_WEP	./oid.h	54;"	d
+OID_802_11_REMOVE_WEP	oid.h	54;"	d
+OID_802_11_RSSI	./oid.h	94;"	d
+OID_802_11_RSSI	oid.h	94;"	d
+OID_802_11_RSSI_TRIGGER	./oid.h	45;"	d
+OID_802_11_RSSI_TRIGGER	oid.h	45;"	d
+OID_802_11_RTS_THRESHOLD	./oid.h	72;"	d
+OID_802_11_RTS_THRESHOLD	oid.h	72;"	d
+OID_802_11_RX_ANTENNA_SELECTED	./oid.h	50;"	d
+OID_802_11_RX_ANTENNA_SELECTED	oid.h	50;"	d
+OID_802_11_SET_IEEE8021X	./oid.h	106;"	d
+OID_802_11_SET_IEEE8021X	oid.h	106;"	d
+OID_802_11_SET_IEEE8021X_REQUIRE_KEY	./oid.h	107;"	d
+OID_802_11_SET_IEEE8021X_REQUIRE_KEY	oid.h	107;"	d
+OID_802_11_SET_PASSPHRASE	./oid.h	139;"	d
+OID_802_11_SET_PASSPHRASE	oid.h	139;"	d
+OID_802_11_SET_PSPXLINK_MODE	./oid.h	138;"	d
+OID_802_11_SET_PSPXLINK_MODE	oid.h	138;"	d
+OID_802_11_SSID	./oid.h	61;"	d
+OID_802_11_SSID	oid.h	61;"	d
+OID_802_11_STATISTICS	./oid.h	95;"	d
+OID_802_11_STATISTICS	oid.h	95;"	d
+OID_802_11_SUPPORTED_RATES	./oid.h	52;"	d
+OID_802_11_SUPPORTED_RATES	oid.h	52;"	d
+OID_802_11_TEST	./oid.h	58;"	d
+OID_802_11_TEST	oid.h	58;"	d
+OID_802_11_TX_ANTENNA_SELECTED	./oid.h	51;"	d
+OID_802_11_TX_ANTENNA_SELECTED	oid.h	51;"	d
+OID_802_11_TX_PACKET_BURST	./oid.h	80;"	d
+OID_802_11_TX_PACKET_BURST	oid.h	80;"	d
+OID_802_11_TX_POWER_LEVEL	./oid.h	75;"	d
+OID_802_11_TX_POWER_LEVEL	oid.h	75;"	d
+OID_802_11_WEP_STATUS	./oid.h	68;"	d
+OID_802_11_WEP_STATUS	oid.h	68;"	d
+OID_802_3_CURRENT_ADDRESS	./oid.h	91;"	d
+OID_802_3_CURRENT_ADDRESS	oid.h	91;"	d
+OID_GEN_MEDIA_CONNECT_STATUS	./oid.h	92;"	d
+OID_GEN_MEDIA_CONNECT_STATUS	oid.h	92;"	d
+OID_GEN_RCV_NO_BUFFER	./oid.h	97;"	d
+OID_GEN_RCV_NO_BUFFER	oid.h	97;"	d
+OID_GEN_RCV_OK	./oid.h	96;"	d
+OID_GEN_RCV_OK	oid.h	96;"	d
+OID_GET_SET_TOGGLE	./oid.h	41;"	d
+OID_GET_SET_TOGGLE	oid.h	41;"	d
+OID_SET_COUNTERMEASURES	./oid.h	105;"	d
+OID_SET_COUNTERMEASURES	oid.h	105;"	d
+OUT	./ixml.h	58;"	d
+OUT	ixml.h	58;"	d
+PARSER_STATE	./ixmlparser.h	/^} PARSER_STATE;$/;"	t	typeref:enum:__anon13
+PARSER_STATE	ixmlparser.h	/^} PARSER_STATE;$/;"	t	typeref:enum:__anon4
+Parser	./ixmlparser.h	/^} Parser;$/;"	t	typeref:struct:_Parser
+Parser	ixmlparser.h	/^} Parser;$/;"	t	typeref:struct:_Parser
+Parser_ElementPrefixDefined	./ixmlparser.c	/^Parser_ElementPrefixDefined( IN Parser * xmlParser,$/;"	f	file:
+Parser_ElementPrefixDefined	ixmlparser.c	/^Parser_ElementPrefixDefined( IN Parser * xmlParser,$/;"	f	file:
+Parser_LoadDocument	./ixmlparser.c	/^Parser_LoadDocument( OUT IXML_Document ** retDoc,$/;"	f
+Parser_LoadDocument	ixmlparser.c	/^Parser_LoadDocument( OUT IXML_Document ** retDoc,$/;"	f
+Parser_UTF8ToInt	./ixmlparser.c	/^Parser_UTF8ToInt( IN char *ss,$/;"	f	file:
+Parser_UTF8ToInt	ixmlparser.c	/^Parser_UTF8ToInt( IN char *ss,$/;"	f	file:
+Parser_addNamespace	./ixmlparser.c	/^Parser_addNamespace( IN Parser * xmlParser )$/;"	f	file:
+Parser_addNamespace	ixmlparser.c	/^Parser_addNamespace( IN Parser * xmlParser )$/;"	f	file:
+Parser_appendTokBufChar	./ixmlparser.c	/^Parser_appendTokBufChar( IN Parser * xmlParser,$/;"	f	file:
+Parser_appendTokBufChar	ixmlparser.c	/^Parser_appendTokBufChar( IN Parser * xmlParser,$/;"	f	file:
+Parser_appendTokBufStr	./ixmlparser.c	/^Parser_appendTokBufStr( IN Parser * xmlParser,$/;"	f	file:
+Parser_appendTokBufStr	ixmlparser.c	/^Parser_appendTokBufStr( IN Parser * xmlParser,$/;"	f	file:
+Parser_clearTokenBuf	./ixmlparser.c	/^Parser_clearTokenBuf( IN Parser * xmlParser )$/;"	f	file:
+Parser_clearTokenBuf	ixmlparser.c	/^Parser_clearTokenBuf( IN Parser * xmlParser )$/;"	f	file:
+Parser_copyToken	./ixmlparser.c	/^Parser_copyToken( IN Parser * xmlParser,$/;"	f	file:
+Parser_copyToken	ixmlparser.c	/^Parser_copyToken( IN Parser * xmlParser,$/;"	f	file:
+Parser_eTagVerification	./ixmlparser.c	/^Parser_eTagVerification( IN Parser * xmlParser,$/;"	f	file:
+Parser_eTagVerification	ixmlparser.c	/^Parser_eTagVerification( IN Parser * xmlParser,$/;"	f	file:
+Parser_free	./ixmlparser.c	/^Parser_free( IN Parser * xmlParser )$/;"	f	file:
+Parser_free	ixmlparser.c	/^Parser_free( IN Parser * xmlParser )$/;"	f	file:
+Parser_freeElementStackItem	./ixmlparser.c	/^Parser_freeElementStackItem( IN IXML_ElementStack * pItem )$/;"	f	file:
+Parser_freeElementStackItem	ixmlparser.c	/^Parser_freeElementStackItem( IN IXML_ElementStack * pItem )$/;"	f	file:
+Parser_freeNodeContent	./ixmlparser.c	/^Parser_freeNodeContent( IN IXML_Node * nodeptr )$/;"	f
+Parser_freeNodeContent	ixmlparser.c	/^Parser_freeNodeContent( IN IXML_Node * nodeptr )$/;"	f
+Parser_freeNsURI	./ixmlparser.c	/^Parser_freeNsURI( IN IXML_NamespaceURI * pNsURI )$/;"	f	file:
+Parser_freeNsURI	ixmlparser.c	/^Parser_freeNsURI( IN IXML_NamespaceURI * pNsURI )$/;"	f	file:
+Parser_getChar	./ixmlparser.c	/^Parser_getChar( IN char *src,$/;"	f	file:
+Parser_getChar	ixmlparser.c	/^Parser_getChar( IN char *src,$/;"	f	file:
+Parser_getNameSpace	./ixmlparser.c	/^Parser_getNameSpace( IN Parser * xmlParser,$/;"	f	file:
+Parser_getNameSpace	ixmlparser.c	/^Parser_getNameSpace( IN Parser * xmlParser,$/;"	f	file:
+Parser_getNextNode	./ixmlparser.c	/^Parser_getNextNode( IN Parser * xmlParser,$/;"	f	file:
+Parser_getNextNode	ixmlparser.c	/^Parser_getNextNode( IN Parser * xmlParser,$/;"	f	file:
+Parser_getNextToken	./ixmlparser.c	/^Parser_getNextToken( IN Parser * xmlParser )$/;"	f	file:
+Parser_getNextToken	ixmlparser.c	/^Parser_getNextToken( IN Parser * xmlParser )$/;"	f	file:
+Parser_hasDefaultNamespace	./ixmlparser.c	/^Parser_hasDefaultNamespace( IN Parser * xmlParser,$/;"	f	file:
+Parser_hasDefaultNamespace	ixmlparser.c	/^Parser_hasDefaultNamespace( IN Parser * xmlParser,$/;"	f	file:
+Parser_init	./ixmlparser.c	/^Parser_init(  )$/;"	f	file:
+Parser_init	ixmlparser.c	/^Parser_init(  )$/;"	f	file:
+Parser_intToUTF8	./ixmlparser.c	/^Parser_intToUTF8( IN int c,$/;"	f	file:
+Parser_intToUTF8	ixmlparser.c	/^Parser_intToUTF8( IN int c,$/;"	f	file:
+Parser_isCharInTable	./ixmlparser.c	/^Parser_isCharInTable( IN int c,$/;"	f	file:
+Parser_isCharInTable	ixmlparser.c	/^Parser_isCharInTable( IN int c,$/;"	f	file:
+Parser_isNameChar	./ixmlparser.c	/^Parser_isNameChar( IN int c,$/;"	f	file:
+Parser_isNameChar	ixmlparser.c	/^Parser_isNameChar( IN int c,$/;"	f	file:
+Parser_isValidEndElement	./ixmlparser.c	/^Parser_isValidEndElement( IN Parser * xmlParser,$/;"	f	file:
+Parser_isValidEndElement	ixmlparser.c	/^Parser_isValidEndElement( IN Parser * xmlParser,$/;"	f	file:
+Parser_isValidXmlName	./ixmlparser.c	/^Parser_isValidXmlName( IN DOMString name )$/;"	f
+Parser_isValidXmlName	ixmlparser.c	/^Parser_isValidXmlName( IN DOMString name )$/;"	f
+Parser_isXmlChar	./ixmlparser.c	/^Parser_isXmlChar( IN int c )$/;"	f	file:
+Parser_isXmlChar	ixmlparser.c	/^Parser_isXmlChar( IN int c )$/;"	f	file:
+Parser_parseDocument	./ixmlparser.c	/^Parser_parseDocument( OUT IXML_Document ** retDoc,$/;"	f	file:
+Parser_parseDocument	ixmlparser.c	/^Parser_parseDocument( OUT IXML_Document ** retDoc,$/;"	f	file:
+Parser_parseReference	./ixmlparser.c	/^Parser_parseReference( IN char *pStr )$/;"	f	file:
+Parser_parseReference	ixmlparser.c	/^Parser_parseReference( IN char *pStr )$/;"	f	file:
+Parser_popElement	./ixmlparser.c	/^Parser_popElement( IN Parser * xmlParser )$/;"	f	file:
+Parser_popElement	ixmlparser.c	/^Parser_popElement( IN Parser * xmlParser )$/;"	f	file:
+Parser_processAttribute	./ixmlparser.c	/^Parser_processAttribute( IN Parser * xmlParser,$/;"	f	file:
+Parser_processAttribute	ixmlparser.c	/^Parser_processAttribute( IN Parser * xmlParser,$/;"	f	file:
+Parser_processAttributeName	./ixmlparser.c	/^Parser_processAttributeName( IN IXML_Document * rootDoc,$/;"	f	file:
+Parser_processAttributeName	ixmlparser.c	/^Parser_processAttributeName( IN IXML_Document * rootDoc,$/;"	f	file:
+Parser_processCDSect	./ixmlparser.c	/^Parser_processCDSect( IN char **pSrc,$/;"	f	file:
+Parser_processCDSect	ixmlparser.c	/^Parser_processCDSect( IN char **pSrc,$/;"	f	file:
+Parser_processContent	./ixmlparser.c	/^Parser_processContent( IN Parser * xmlParser,$/;"	f	file:
+Parser_processContent	ixmlparser.c	/^Parser_processContent( IN Parser * xmlParser,$/;"	f	file:
+Parser_processETag	./ixmlparser.c	/^Parser_processETag( IN Parser * xmlParser,$/;"	f	file:
+Parser_processETag	ixmlparser.c	/^Parser_processETag( IN Parser * xmlParser,$/;"	f	file:
+Parser_processElementName	./ixmlparser.c	/^Parser_processElementName( IN IXML_Document * rootDoc,$/;"	f	file:
+Parser_processElementName	ixmlparser.c	/^Parser_processElementName( IN IXML_Document * rootDoc,$/;"	f	file:
+Parser_processSTag	./ixmlparser.c	/^Parser_processSTag( IN Parser * xmlParser,$/;"	f	file:
+Parser_processSTag	ixmlparser.c	/^Parser_processSTag( IN Parser * xmlParser,$/;"	f	file:
+Parser_pushElement	./ixmlparser.c	/^Parser_pushElement( IN Parser * xmlParser,$/;"	f	file:
+Parser_pushElement	ixmlparser.c	/^Parser_pushElement( IN Parser * xmlParser,$/;"	f	file:
+Parser_readFileOrBuffer	./ixmlparser.c	/^Parser_readFileOrBuffer( IN Parser * xmlParser,$/;"	f	file:
+Parser_readFileOrBuffer	ixmlparser.c	/^Parser_readFileOrBuffer( IN Parser * xmlParser,$/;"	f	file:
+Parser_setElementNamespace	./ixmlparser.c	/^Parser_setElementNamespace( IN IXML_Element * newElement,$/;"	f	file:
+Parser_setElementNamespace	ixmlparser.c	/^Parser_setElementNamespace( IN IXML_Element * newElement,$/;"	f	file:
+Parser_setErrorChar	./ixmlparser.c	/^Parser_setErrorChar( IN char c )$/;"	f
+Parser_setErrorChar	ixmlparser.c	/^Parser_setErrorChar( IN char c )$/;"	f
+Parser_setLastElem	./ixmlparser.c	/^Parser_setLastElem( IN Parser * xmlParser,$/;"	f	file:
+Parser_setLastElem	ixmlparser.c	/^Parser_setLastElem( IN Parser * xmlParser,$/;"	f	file:
+Parser_setNodePrefixAndLocalName	./ixmlparser.c	/^Parser_setNodePrefixAndLocalName( IN IXML_Node * node )$/;"	f
+Parser_setNodePrefixAndLocalName	ixmlparser.c	/^Parser_setNodePrefixAndLocalName( IN IXML_Node * node )$/;"	f
+Parser_skipComment	./ixmlparser.c	/^Parser_skipComment( INOUT char **pstrSrc )$/;"	f	file:
+Parser_skipComment	ixmlparser.c	/^Parser_skipComment( INOUT char **pstrSrc )$/;"	f	file:
+Parser_skipDocType	./ixmlparser.c	/^Parser_skipDocType( INOUT char **pstr )$/;"	f	file:
+Parser_skipDocType	ixmlparser.c	/^Parser_skipDocType( INOUT char **pstr )$/;"	f	file:
+Parser_skipMisc	./ixmlparser.c	/^Parser_skipMisc( IN Parser * xmlParser )$/;"	f	file:
+Parser_skipMisc	ixmlparser.c	/^Parser_skipMisc( IN Parser * xmlParser )$/;"	f	file:
+Parser_skipPI	./ixmlparser.c	/^Parser_skipPI( INOUT char **pSrc )$/;"	f	file:
+Parser_skipPI	ixmlparser.c	/^Parser_skipPI( INOUT char **pSrc )$/;"	f	file:
+Parser_skipProlog	./ixmlparser.c	/^Parser_skipProlog( INOUT Parser * xmlParser )$/;"	f	file:
+Parser_skipProlog	ixmlparser.c	/^Parser_skipProlog( INOUT Parser * xmlParser )$/;"	f	file:
+Parser_skipString	./ixmlparser.c	/^Parser_skipString( INOUT char **pstrSrc,$/;"	f	file:
+Parser_skipString	ixmlparser.c	/^Parser_skipString( INOUT char **pstrSrc,$/;"	f	file:
+Parser_skipWhiteSpaces	./ixmlparser.c	/^Parser_skipWhiteSpaces( IN Parser * xmlParser )$/;"	f	file:
+Parser_skipWhiteSpaces	ixmlparser.c	/^Parser_skipWhiteSpaces( IN Parser * xmlParser )$/;"	f	file:
+Parser_skipXMLDecl	./ixmlparser.c	/^Parser_skipXMLDecl( INOUT Parser * xmlParser )$/;"	f	file:
+Parser_skipXMLDecl	ixmlparser.c	/^Parser_skipXMLDecl( INOUT Parser * xmlParser )$/;"	f	file:
+Parser_xmlNamespace	./ixmlparser.c	/^Parser_xmlNamespace( IN Parser * xmlParser,$/;"	f	file:
+Parser_xmlNamespace	ixmlparser.c	/^Parser_xmlNamespace( IN Parser * xmlParser,$/;"	f	file:
+PowerSaveList	./openwrt/openwrt.c	/^}PowerSaveList;$/;"	t	typeref:struct:tagPowerSaveList	file:
+PowerSaveList	./qsdk/qsdk.c	/^}PowerSaveList;$/;"	t	typeref:struct:tagPowerSaveList	file:
+PowerSaveMode	./openwrt/openwrt.c	/^}PowerSaveMode;$/;"	t	typeref:struct:tagPowerSaveMode	file:
+PowerSaveMode	./qsdk/qsdk.c	/^}PowerSaveMode;$/;"	t	typeref:struct:tagPowerSaveMode	file:
+Psm	./ralink/ramng.h	/^	unsigned char           Psm;     \/\/ 0:PWR_ACTIVE, 1:PWR_SAVE$/;"	m	struct:_RT_802_11_MAC_ENTRY
+QUOT	./ixmlparser.h	39;"	d
+QUOT	ixmlparser.h	39;"	d
+QUOTE	./ixmlparser.c	/^static const char QUOTE = '\\"';$/;"	v	file:
+QUOTE	ixmlparser.c	/^static const char QUOTE = '\\"';$/;"	v	file:
+RTPRIV_IOCTL_ADD_PMKID_CACHE	./oid.h	32;"	d
+RTPRIV_IOCTL_ADD_PMKID_CACHE	oid.h	32;"	d
+RTPRIV_IOCTL_ADD_WPA_KEY	./oid.h	35;"	d
+RTPRIV_IOCTL_ADD_WPA_KEY	oid.h	35;"	d
+RTPRIV_IOCTL_BBP	./oid.h	26;"	d
+RTPRIV_IOCTL_BBP	oid.h	26;"	d
+RTPRIV_IOCTL_E2P	./oid.h	28;"	d
+RTPRIV_IOCTL_E2P	oid.h	28;"	d
+RTPRIV_IOCTL_GET_MAC_TABLE	./oid.h	36;"	d
+RTPRIV_IOCTL_GET_MAC_TABLE	oid.h	36;"	d
+RTPRIV_IOCTL_GET_MAC_TABLE_STRUCT	./oid.h	37;"	d
+RTPRIV_IOCTL_GET_MAC_TABLE_STRUCT	oid.h	37;"	d
+RTPRIV_IOCTL_GSITESURVEY	./oid.h	34;"	d
+RTPRIV_IOCTL_GSITESURVEY	oid.h	34;"	d
+RTPRIV_IOCTL_MAC	./oid.h	27;"	d
+RTPRIV_IOCTL_MAC	oid.h	27;"	d
+RTPRIV_IOCTL_RADIUS_DATA	./oid.h	33;"	d
+RTPRIV_IOCTL_RADIUS_DATA	oid.h	33;"	d
+RTPRIV_IOCTL_SET	./oid.h	23;"	d
+RTPRIV_IOCTL_SET	oid.h	23;"	d
+RTPRIV_IOCTL_STATIC_WEP_COPY	./oid.h	38;"	d
+RTPRIV_IOCTL_STATIC_WEP_COPY	oid.h	38;"	d
+RTPRIV_IOCTL_STATISTICS	./oid.h	31;"	d
+RTPRIV_IOCTL_STATISTICS	oid.h	31;"	d
+RTPRIV_IOCTL_WSC_PROFILE	./oid.h	39;"	d
+RTPRIV_IOCTL_WSC_PROFILE	oid.h	39;"	d
+RT_802_11_MAC_ENTRY	./ralink/ramng.h	/^} RT_802_11_MAC_ENTRY;$/;"	t	typeref:struct:_RT_802_11_MAC_ENTRY
+RT_802_11_MAC_TABLE	./ralink/ramng.h	/^} RT_802_11_MAC_TABLE;$/;"	t	typeref:struct:_RT_802_11_MAC_TABLE
+RT_802_11_TXBF_TABLE	./oid.h	/^} RT_802_11_TXBF_TABLE;$/;"	t	typeref:struct:__anon12
+RT_802_11_TXBF_TABLE	oid.h	/^} RT_802_11_TXBF_TABLE;$/;"	t	typeref:struct:__anon6
+RT_COUNTER_TXBF	./oid.h	/^} RT_COUNTER_TXBF;$/;"	t	typeref:struct:__anon11
+RT_COUNTER_TXBF	oid.h	/^} RT_COUNTER_TXBF;$/;"	t	typeref:struct:__anon5
+RT_OID_802_11_ADD_IMME_BA	./oid.h	133;"	d
+RT_OID_802_11_ADD_IMME_BA	oid.h	133;"	d
+RT_OID_802_11_ADD_KEY	./oid.h	165;"	d
+RT_OID_802_11_ADD_KEY	oid.h	165;"	d
+RT_OID_802_11_ADD_WEP	./oid.h	164;"	d
+RT_OID_802_11_ADD_WEP	oid.h	164;"	d
+RT_OID_802_11_ADD_WPA	./oid.h	76;"	d
+RT_OID_802_11_ADD_WPA	oid.h	76;"	d
+RT_OID_802_11_AUTHENTICATION_MODE	./oid.h	169;"	d
+RT_OID_802_11_AUTHENTICATION_MODE	oid.h	169;"	d
+RT_OID_802_11_BSSID	./oid.h	161;"	d
+RT_OID_802_11_BSSID	oid.h	161;"	d
+RT_OID_802_11_BSSID_LIST_SCAN	./oid.h	171;"	d
+RT_OID_802_11_BSSID_LIST_SCAN	oid.h	171;"	d
+RT_OID_802_11_CONFIGURATION	./oid.h	183;"	d
+RT_OID_802_11_CONFIGURATION	oid.h	183;"	d
+RT_OID_802_11_COUNTRY_REGION	./oid.h	59;"	d
+RT_OID_802_11_COUNTRY_REGION	oid.h	59;"	d
+RT_OID_802_11_DESIRED_RATES	./oid.h	182;"	d
+RT_OID_802_11_DESIRED_RATES	oid.h	182;"	d
+RT_OID_802_11_DISASSOCIATE	./oid.h	168;"	d
+RT_OID_802_11_DISASSOCIATE	oid.h	168;"	d
+RT_OID_802_11_EXTRA_INFO	./oid.h	82;"	d
+RT_OID_802_11_EXTRA_INFO	oid.h	82;"	d
+RT_OID_802_11_FRAGMENTATION_THRESHOLD	./oid.h	177;"	d
+RT_OID_802_11_FRAGMENTATION_THRESHOLD	oid.h	177;"	d
+RT_OID_802_11_HARDWARE_REGISTER	./oid.h	84;"	d
+RT_OID_802_11_HARDWARE_REGISTER	oid.h	84;"	d
+RT_OID_802_11_INFRASTRUCTURE_MODE	./oid.h	163;"	d
+RT_OID_802_11_INFRASTRUCTURE_MODE	oid.h	163;"	d
+RT_OID_802_11_NETWORK_TYPE_IN_USE	./oid.h	174;"	d
+RT_OID_802_11_NETWORK_TYPE_IN_USE	oid.h	174;"	d
+RT_OID_802_11_PHY_MODE	./oid.h	64;"	d
+RT_OID_802_11_PHY_MODE	oid.h	64;"	d
+RT_OID_802_11_POWER_MODE	./oid.h	184;"	d
+RT_OID_802_11_POWER_MODE	oid.h	184;"	d
+RT_OID_802_11_PREAMBLE	./oid.h	67;"	d
+RT_OID_802_11_PREAMBLE	oid.h	67;"	d
+RT_OID_802_11_PRIVACY_FILTER	./oid.h	170;"	d
+RT_OID_802_11_PRIVACY_FILTER	oid.h	170;"	d
+RT_OID_802_11_QUERY_APSD_PSM	./oid.h	122;"	d
+RT_OID_802_11_QUERY_APSD_PSM	oid.h	122;"	d
+RT_OID_802_11_QUERY_APSD_SETTING	./oid.h	120;"	d
+RT_OID_802_11_QUERY_APSD_SETTING	oid.h	120;"	d
+RT_OID_802_11_QUERY_BATABLE	./oid.h	132;"	d
+RT_OID_802_11_QUERY_BATABLE	oid.h	132;"	d
+RT_OID_802_11_QUERY_DAT_HT_PHYMODE	./oid.h	136;"	d
+RT_OID_802_11_QUERY_DAT_HT_PHYMODE	oid.h	136;"	d
+RT_OID_802_11_QUERY_DLS	./oid.h	124;"	d
+RT_OID_802_11_QUERY_DLS	oid.h	124;"	d
+RT_OID_802_11_QUERY_DLS_PARAM	./oid.h	126;"	d
+RT_OID_802_11_QUERY_DLS_PARAM	oid.h	126;"	d
+RT_OID_802_11_QUERY_EEPROM_VERSION	./oid.h	98;"	d
+RT_OID_802_11_QUERY_EEPROM_VERSION	oid.h	98;"	d
+RT_OID_802_11_QUERY_FIRMWARE_VERSION	./oid.h	99;"	d
+RT_OID_802_11_QUERY_FIRMWARE_VERSION	oid.h	99;"	d
+RT_OID_802_11_QUERY_HT_PHYMODE	./oid.h	117;"	d
+RT_OID_802_11_QUERY_HT_PHYMODE	oid.h	117;"	d
+RT_OID_802_11_QUERY_IMME_BA_CAP	./oid.h	130;"	d
+RT_OID_802_11_QUERY_IMME_BA_CAP	oid.h	130;"	d
+RT_OID_802_11_QUERY_LAST_RX_RATE	./oid.h	100;"	d
+RT_OID_802_11_QUERY_LAST_RX_RATE	oid.h	100;"	d
+RT_OID_802_11_QUERY_LAST_TX_RATE	./oid.h	116;"	d
+RT_OID_802_11_QUERY_LAST_TX_RATE	oid.h	116;"	d
+RT_OID_802_11_QUERY_LINK_STATUS	./oid.h	93;"	d
+RT_OID_802_11_QUERY_LINK_STATUS	oid.h	93;"	d
+RT_OID_802_11_QUERY_NOISE_LEVEL	./oid.h	81;"	d
+RT_OID_802_11_QUERY_NOISE_LEVEL	oid.h	81;"	d
+RT_OID_802_11_QUERY_PIDVID	./oid.h	102;"	d
+RT_OID_802_11_QUERY_PIDVID	oid.h	102;"	d
+RT_OID_802_11_QUERY_TXBF_TABLE	./oid.h	143;"	d
+RT_OID_802_11_QUERY_TXBF_TABLE	./oid.h	147;"	d
+RT_OID_802_11_QUERY_TXBF_TABLE	oid.h	143;"	d
+RT_OID_802_11_QUERY_TXBF_TABLE	oid.h	147;"	d
+RT_OID_802_11_QUERY_WMM	./oid.h	128;"	d
+RT_OID_802_11_QUERY_WMM	oid.h	128;"	d
+RT_OID_802_11_RADIO	./oid.h	63;"	d
+RT_OID_802_11_RADIO	oid.h	63;"	d
+RT_OID_802_11_RELOAD_DEFAULTS	./oid.h	173;"	d
+RT_OID_802_11_RELOAD_DEFAULTS	oid.h	173;"	d
+RT_OID_802_11_REMOVE_KEY	./oid.h	167;"	d
+RT_OID_802_11_REMOVE_KEY	oid.h	167;"	d
+RT_OID_802_11_REMOVE_WEP	./oid.h	166;"	d
+RT_OID_802_11_REMOVE_WEP	oid.h	166;"	d
+RT_OID_802_11_RESET_COUNTERS	./oid.h	71;"	d
+RT_OID_802_11_RESET_COUNTERS	oid.h	71;"	d
+RT_OID_802_11_RSSI	./oid.h	46;"	d
+RT_OID_802_11_RSSI	oid.h	46;"	d
+RT_OID_802_11_RSSI_1	./oid.h	47;"	d
+RT_OID_802_11_RSSI_1	oid.h	47;"	d
+RT_OID_802_11_RSSI_2	./oid.h	48;"	d
+RT_OID_802_11_RSSI_2	oid.h	48;"	d
+RT_OID_802_11_RSSI_TRIGGER	./oid.h	176;"	d
+RT_OID_802_11_RSSI_TRIGGER	oid.h	176;"	d
+RT_OID_802_11_RTS_THRESHOLD	./oid.h	178;"	d
+RT_OID_802_11_RTS_THRESHOLD	oid.h	178;"	d
+RT_OID_802_11_RX_ANTENNA_SELECTED	./oid.h	179;"	d
+RT_OID_802_11_RX_ANTENNA_SELECTED	oid.h	179;"	d
+RT_OID_802_11_SET_APSD_PSM	./oid.h	123;"	d
+RT_OID_802_11_SET_APSD_PSM	oid.h	123;"	d
+RT_OID_802_11_SET_APSD_SETTING	./oid.h	121;"	d
+RT_OID_802_11_SET_APSD_SETTING	oid.h	121;"	d
+RT_OID_802_11_SET_DLS	./oid.h	125;"	d
+RT_OID_802_11_SET_DLS	oid.h	125;"	d
+RT_OID_802_11_SET_DLS_PARAM	./oid.h	127;"	d
+RT_OID_802_11_SET_DLS_PARAM	oid.h	127;"	d
+RT_OID_802_11_SET_HT_PHYMODE	./oid.h	118;"	d
+RT_OID_802_11_SET_HT_PHYMODE	oid.h	118;"	d
+RT_OID_802_11_SET_IMME_BA_CAP	./oid.h	131;"	d
+RT_OID_802_11_SET_IMME_BA_CAP	oid.h	131;"	d
+RT_OID_802_11_SET_WMM	./oid.h	129;"	d
+RT_OID_802_11_SET_WMM	oid.h	129;"	d
+RT_OID_802_11_SNR_0	./oid.h	114;"	d
+RT_OID_802_11_SNR_0	oid.h	114;"	d
+RT_OID_802_11_SNR_1	./oid.h	115;"	d
+RT_OID_802_11_SNR_1	oid.h	115;"	d
+RT_OID_802_11_SNR_2	./oid.h	141;"	d
+RT_OID_802_11_SNR_2	./oid.h	145;"	d
+RT_OID_802_11_SNR_2	oid.h	141;"	d
+RT_OID_802_11_SNR_2	oid.h	145;"	d
+RT_OID_802_11_SSID	./oid.h	162;"	d
+RT_OID_802_11_SSID	oid.h	162;"	d
+RT_OID_802_11_STA_CONFIG	./oid.h	65;"	d
+RT_OID_802_11_STA_CONFIG	oid.h	65;"	d
+RT_OID_802_11_STREAM_SNR	./oid.h	142;"	d
+RT_OID_802_11_STREAM_SNR	./oid.h	146;"	d
+RT_OID_802_11_STREAM_SNR	oid.h	142;"	d
+RT_OID_802_11_STREAM_SNR	oid.h	146;"	d
+RT_OID_802_11_SUPPORTED_RATES	./oid.h	181;"	d
+RT_OID_802_11_SUPPORTED_RATES	oid.h	181;"	d
+RT_OID_802_11_TEAR_IMME_BA	./oid.h	134;"	d
+RT_OID_802_11_TEAR_IMME_BA	oid.h	134;"	d
+RT_OID_802_11_TX_ANTENNA_SELECTED	./oid.h	180;"	d
+RT_OID_802_11_TX_ANTENNA_SELECTED	oid.h	180;"	d
+RT_OID_802_11_TX_POWER_LEVEL	./oid.h	175;"	d
+RT_OID_802_11_TX_POWER_LEVEL	oid.h	175;"	d
+RT_OID_802_11_TX_POWER_LEVEL_1	./oid.h	101;"	d
+RT_OID_802_11_TX_POWER_LEVEL_1	oid.h	101;"	d
+RT_OID_802_11_WEP_STATUS	./oid.h	172;"	d
+RT_OID_802_11_WEP_STATUS	oid.h	172;"	d
+RT_OID_802_11_WSC_QUERY_PROFILE	./oid.h	149;"	d
+RT_OID_802_11_WSC_QUERY_PROFILE	oid.h	149;"	d
+RT_OID_DEVICE_NAME	./oid.h	88;"	d
+RT_OID_DEVICE_NAME	oid.h	88;"	d
+RT_OID_DRIVER_DEVICE_NAME	./oid.h	135;"	d
+RT_OID_DRIVER_DEVICE_NAME	oid.h	135;"	d
+RT_OID_QUERY_MULTIPLE_CARD_SUPPORT	./oid.h	137;"	d
+RT_OID_QUERY_MULTIPLE_CARD_SUPPORT	oid.h	137;"	d
+RT_OID_SYNC_RT61	./oid.h	188;"	d
+RT_OID_SYNC_RT61	oid.h	188;"	d
+RT_OID_VERSION_INFO	./oid.h	89;"	d
+RT_OID_VERSION_INFO	oid.h	89;"	d
+RT_OID_WE_VERSION_COMPILED	./oid.h	110;"	d
+RT_OID_WE_VERSION_COMPILED	oid.h	110;"	d
+RT_OID_WPA_SUPPLICANT_SUPPORT	./oid.h	109;"	d
+RT_OID_WPA_SUPPLICANT_SUPPORT	oid.h	109;"	d
+RT_OID_WSC_PIN_CODE	./oid.h	190;"	d
+RT_OID_WSC_PIN_CODE	oid.h	190;"	d
+RT_OID_WSC_QUERY_STATUS	./oid.h	189;"	d
+RT_OID_WSC_QUERY_STATUS	oid.h	189;"	d
+RT_OID_WSC_UUID	./oid.h	150;"	d
+RT_OID_WSC_UUID	oid.h	150;"	d
+RT_PRIV_IOCTL	./oid.h	18;"	d
+RT_PRIV_IOCTL	./oid.h	20;"	d
+RT_PRIV_IOCTL	oid.h	18;"	d
+RT_PRIV_IOCTL	oid.h	20;"	d
+RT_QUERY_ATE_TXDONE_COUNT	./oid.h	40;"	d
+RT_QUERY_ATE_TXDONE_COUNT	oid.h	40;"	d
+SCAN_AP_TABLE	./route.h	/^}SCAN_AP_TABLE;$/;"	t	typeref:struct:scan_ap_table_s
+SCAN_AP_TABLE	route.h	/^}SCAN_AP_TABLE;$/;"	t	typeref:struct:scan_ap_table_s
+SERVER_PORT	./connectmng.c	23;"	d	file:
+SERVER_PORT	connectmng.c	23;"	d	file:
+SINGLEQUOTE	./ixmlparser.c	/^static const char SINGLEQUOTE = '\\'';$/;"	v	file:
+SINGLEQUOTE	ixmlparser.c	/^static const char SINGLEQUOTE = '\\'';$/;"	v	file:
+SIOCDEVPRIVATE	./oid.h	12;"	d
+SIOCDEVPRIVATE	oid.h	12;"	d
+SIOCIWFIRSTPRIV	./oid.h	14;"	d
+SIOCIWFIRSTPRIV	oid.h	14;"	d
+SLASH	./ixmlparser.c	/^static const char SLASH = '\/';$/;"	v	file:
+SLASH	ixmlparser.c	/^static const char SLASH = '\/';$/;"	v	file:
+SOURCE	./Makefile	/^SOURCE = $(wildcard .\/*.c) $(wildcard .\/qsdk\/*.c)$/;"	m
+SOURCE	Makefile	/^SOURCE = $(wildcard .\/*.c) $(wildcard .\/qsdk\/*.c)$/;"	m
+SSIDInfo	./openwrt/openwrt.c	/^}SSIDInfo;$/;"	t	typeref:struct:tagSSIDInfo	file:
+SSIDInfo	./qsdk/qsdk.c	/^}SSIDInfo;$/;"	t	typeref:struct:tagSSIDInfo	file:
+STATIC_DHCP_TABLE	./route.h	/^}STATIC_DHCP_TABLE;$/;"	t	typeref:struct:static_dhcp_table_s
+STATIC_DHCP_TABLE	route.h	/^}STATIC_DHCP_TABLE;$/;"	t	typeref:struct:static_dhcp_table_s
+STA_MAC_ENTRY	./route.h	/^}STA_MAC_ENTRY;$/;"	t	typeref:struct:sta_mac_entry_s
+STA_MAC_ENTRY	route.h	/^}STA_MAC_ENTRY;$/;"	t	typeref:struct:sta_mac_entry_s
+STA_MAC_TABLE	./route.h	/^}STA_MAC_TABLE;$/;"	t	typeref:struct:sta_mac_table_s
+STA_MAC_TABLE	route.h	/^}STA_MAC_TABLE;$/;"	t	typeref:struct:sta_mac_table_s
+STA_SSID	./openwrt/openwrt.c	66;"	d	file:
+STA_SSID	./qsdk/qsdk.c	66;"	d	file:
+STBC	./ralink/ramng.h	/^		unsigned short  STBC:2; \/\/SPACE$/;"	m	struct:_MACHTTRANSMIT_SETTING::__anon7
+STFs	./ralink/ramng.c	/^static inline void STFs(int nvram, int index, char *flash_key, char *value)$/;"	f	file:
+SendMsg	./connectmng.c	/^int  SendMsg(int sockfd,char * sendBuff)$/;"	f
+SendMsg	connectmng.c	/^int  SendMsg(int sockfd,char * sendBuff)$/;"	f
+ShortGI	./ralink/ramng.h	/^		unsigned short  ShortGI:1;$/;"	m	struct:_MACHTTRANSMIT_SETTING::__anon7
+SoundingRespSnr	./ralink/ramng.h	/^	int						SoundingRespSnr[3];$/;"	m	struct:_RT_802_11_MAC_ENTRY
+StreamSnr	./ralink/ramng.h	/^	int						StreamSnr[3];$/;"	m	struct:_RT_802_11_MAC_ENTRY
+TEXTNODENAME	./ixml.h	138;"	d
+TEXTNODENAME	ixml.h	138;"	d
+TRUE	./ixml.h	46;"	d
+TRUE	ixml.h	46;"	d
+TxFailCount	./oid.h	/^	unsigned long	TxFailCount;$/;"	m	struct:__anon11
+TxFailCount	oid.h	/^	unsigned long	TxFailCount;$/;"	m	struct:__anon5
+TxRate	./ralink/ramng.h	/^	MACHTTRANSMIT_SETTING	TxRate;$/;"	m	struct:_RT_802_11_MAC_ENTRY
+TxRetryCount	./oid.h	/^	unsigned long	TxRetryCount;$/;"	m	struct:__anon11
+TxRetryCount	oid.h	/^	unsigned long	TxRetryCount;$/;"	m	struct:__anon5
+TxSuccessCount	./oid.h	/^	unsigned long	TxSuccessCount;$/;"	m	struct:__anon11
+TxSuccessCount	oid.h	/^	unsigned long	TxSuccessCount;$/;"	m	struct:__anon5
+WHITESPACE	./ixmlparser.c	/^static const char *WHITESPACE = "\\n\\t\\r ";$/;"	v	file:
+WHITESPACE	ixmlparser.c	/^static const char *WHITESPACE = "\\n\\t\\r ";$/;"	v	file:
+XINLINE	./ixmlmembuf.h	41;"	d
+XINLINE	ixmlmembuf.h	41;"	d
+XMLDECL	./ixmlparser.c	/^static const char *XMLDECL = "<?xml ";$/;"	v	file:
+XMLDECL	ixmlparser.c	/^static const char *XMLDECL = "<?xml ";$/;"	v	file:
+XMLDECL2	./ixmlparser.c	/^static const char *XMLDECL2 = "<?xml?";$/;"	v	file:
+XMLDECL2	ixmlparser.c	/^static const char *XMLDECL2 = "<?xml?";$/;"	v	file:
+_GNU_SOURCE	./xmldoc.c	28;"	d	file:
+_GNU_SOURCE	xmldoc.c	28;"	d	file:
+_IXMLPARSER_H	./ixmlparser.h	33;"	d
+_IXMLPARSER_H	ixmlparser.h	33;"	d
+_IXML_ATTR	./ixml.h	/^typedef struct _IXML_ATTR$/;"	s
+_IXML_ATTR	ixml.h	/^typedef struct _IXML_ATTR$/;"	s
+_IXML_CDATASection	./ixml.h	/^typedef struct _IXML_CDATASection$/;"	s
+_IXML_CDATASection	ixml.h	/^typedef struct _IXML_CDATASection$/;"	s
+_IXML_Document	./ixml.h	/^typedef struct _IXML_Document$/;"	s
+_IXML_Document	ixml.h	/^typedef struct _IXML_Document$/;"	s
+_IXML_Element	./ixml.h	/^typedef struct _IXML_Element$/;"	s
+_IXML_Element	ixml.h	/^typedef struct _IXML_Element$/;"	s
+_IXML_ElementStack	./ixmlparser.h	/^typedef struct _IXML_ElementStack$/;"	s
+_IXML_ElementStack	ixmlparser.h	/^typedef struct _IXML_ElementStack$/;"	s
+_IXML_H_	./ixml.h	33;"	d
+_IXML_H_	ixml.h	33;"	d
+_IXML_MEMBUF_H	./ixmlmembuf.h	33;"	d
+_IXML_MEMBUF_H	ixmlmembuf.h	33;"	d
+_IXML_NamedNodeMap	./ixml.h	/^typedef struct _IXML_NamedNodeMap$/;"	s
+_IXML_NamedNodeMap	ixml.h	/^typedef struct _IXML_NamedNodeMap$/;"	s
+_IXML_NamespaceURI	./ixmlparser.h	/^typedef struct _IXML_NamespaceURI $/;"	s
+_IXML_NamespaceURI	ixmlparser.h	/^typedef struct _IXML_NamespaceURI $/;"	s
+_IXML_Node	./ixml.h	/^typedef struct _IXML_Node$/;"	s
+_IXML_Node	ixml.h	/^typedef struct _IXML_Node$/;"	s
+_IXML_NodeList	./ixml.h	/^typedef struct _IXML_NodeList$/;"	s
+_IXML_NodeList	ixml.h	/^typedef struct _IXML_NodeList$/;"	s
+_IXML_Text	./ixml.h	/^typedef struct _IXML_Text$/;"	s
+_IXML_Text	ixml.h	/^typedef struct _IXML_Text$/;"	s
+_MACHTTRANSMIT_SETTING	./ralink/ramng.h	/^typedef union _MACHTTRANSMIT_SETTING {$/;"	u
+_Parser	./ixmlparser.h	/^typedef struct _Parser$/;"	s
+_Parser	ixmlparser.h	/^typedef struct _Parser$/;"	s
+_RAMNG_H	./ralink/ramng.h	3;"	d
+_ROUTE_H	./route.h	7;"	d
+_ROUTE_H	route.h	7;"	d
+_RT_802_11_MAC_ENTRY	./ralink/ramng.h	/^typedef struct _RT_802_11_MAC_ENTRY {$/;"	s
+_RT_802_11_MAC_TABLE	./ralink/ramng.h	/^typedef struct _RT_802_11_MAC_TABLE {$/;"	s
+_XMLDOC_H	./xmldoc.h	25;"	d
+_XMLDOC_H	xmldoc.h	25;"	d
+_getwanlink	./openwrt/openwrt.c	/^int _getwanlink(char *link)$/;"	f
+_getwanlink	./qsdk/qsdk.c	/^int _getwanlink(char *link)$/;"	f
+_getwanlink	./ralink/ramng.c	/^int _getwanlink(char *link)$/;"	f
+active	./connectmng.c	/^    int active;$/;"	m	struct:tcp_client_s	file:
+active	connectmng.c	/^    int active;$/;"	m	struct:tcp_client_s	file:
+add_attributevalue_element	./xmldoc.c	/^struct xmlelement *add_attributevalue_element(struct xmldoc *doc,$/;"	f
+add_attributevalue_element	xmldoc.c	/^struct xmlelement *add_attributevalue_element(struct xmldoc *doc,$/;"	f
+add_static_dhcp	./qsdk/qsdk.c	/^int add_static_dhcp(char *mac,char *ip)$/;"	f
+add_value_element	./xmldoc.c	/^void add_value_element(struct xmldoc *doc,$/;"	f
+add_value_element	xmldoc.c	/^void add_value_element(struct xmldoc *doc,$/;"	f
+add_value_element_int	./xmldoc.c	/^void add_value_element_int(struct xmldoc *doc,$/;"	f
+add_value_element_int	xmldoc.c	/^void add_value_element_int(struct xmldoc *doc,$/;"	f
+add_value_element_long	./xmldoc.c	/^void add_value_element_long(struct xmldoc *doc,$/;"	f
+add_value_element_long	xmldoc.c	/^void add_value_element_long(struct xmldoc *doc,$/;"	f
+ap_info_entry_s	./route.h	/^typedef struct ap_info_entry_s{$/;"	s
+ap_info_entry_s	route.h	/^typedef struct ap_info_entry_s{$/;"	s
+authmode	./route.h	/^    char authmode[32];$/;"	m	struct:ap_info_entry_s
+authmode	route.h	/^    char authmode[32];$/;"	m	struct:ap_info_entry_s
+bHasTopLevel	./ixmlparser.h	/^    BOOL                bHasTopLevel;$/;"	m	struct:_Parser
+bHasTopLevel	ixmlparser.h	/^    BOOL                bHasTopLevel;$/;"	m	struct:_Parser
+broadcast_thread	./qsdk/qsdk.c	/^int broadcast_thread(void *param)$/;"	f
+broadcast_wirelesscode	./qsdk/qsdk.c	/^int broadcast_wirelesscode(int timeout)$/;"	f
+bssid	./route.h	/^    char bssid[24];$/;"	m	struct:ap_info_entry_s
+bssid	route.h	/^    char bssid[24];$/;"	m	struct:ap_info_entry_s
+buf	./ixmlmembuf.h	/^	char	*buf;$/;"	m	struct:__anon10
+buf	ixmlmembuf.h	/^	char	*buf;$/;"	m	struct:__anon3
+build_result	./connectmng.c	/^int build_result(struct xmldoc *result,int errno)$/;"	f
+build_result	connectmng.c	/^int build_result(struct xmldoc *result,int errno)$/;"	f
+bw	./route.h	/^    unsigned char bw[4];$/;"	m	struct:sta_mac_entry_s
+bw	route.h	/^    unsigned char bw[4];$/;"	m	struct:sta_mac_entry_s
+capacity	./ixmlmembuf.h	/^	size_t	capacity;$/;"	m	struct:__anon10
+capacity	ixmlmembuf.h	/^	size_t	capacity;$/;"	m	struct:__anon3
+channel	./openwrt/openwrt.c	/^    int  channel;$/;"	m	struct:tagSSIDInfo	file:
+channel	./qsdk/qsdk.c	/^    int  channel;$/;"	m	struct:tagSSIDInfo	file:
+channel	./route.h	/^    char channel[32];$/;"	m	struct:ap_info_entry_s
+channel	route.h	/^    char channel[32];$/;"	m	struct:ap_info_entry_s
+char_info	./ixmlparser.c	/^typedef struct char_info {$/;"	s	file:
+char_info	ixmlparser.c	/^typedef struct char_info {$/;"	s	file:
+char_info_t	./ixmlparser.c	/^} char_info_t;$/;"	t	typeref:struct:char_info	file:
+char_info_t	ixmlparser.c	/^} char_info_t;$/;"	t	typeref:struct:char_info	file:
+checklinkspeed	./openwrt/statusdem.c	/^static int checklinkspeed(int port)$/;"	f	file:
+checknetwork	./openwrt/statusdem.c	/^int checknetwork()$/;"	f
+checkwanstatus	./openwrt/statusdem.c	/^static void checkwanstatus()$/;"	f	file:
+clear_static_dhcp	./qsdk/qsdk.c	/^int clear_static_dhcp()$/;"	f
+client_pool	./connectmng.c	/^tcp_client client_pool[MAX_CLIENT];$/;"	v
+client_pool	connectmng.c	/^tcp_client client_pool[MAX_CLIENT];$/;"	v
+client_sfd	./connectmng.c	/^    int client_sfd;$/;"	m	struct:tcp_client_s	file:
+client_sfd	connectmng.c	/^    int client_sfd;$/;"	m	struct:tcp_client_s	file:
+cmd	./connectmng.c	/^    char *cmd;$/;"	m	struct:cmd_process_s	file:
+cmd	connectmng.c	/^    char *cmd;$/;"	m	struct:cmd_process_s	file:
+cmd_process	./connectmng.c	/^}cmd_process;$/;"	t	typeref:struct:cmd_process_s	file:
+cmd_process	connectmng.c	/^}cmd_process;$/;"	t	typeref:struct:cmd_process_s	file:
+cmd_process_s	./connectmng.c	/^typedef struct cmd_process_s{$/;"	s	file:
+cmd_process_s	connectmng.c	/^typedef struct cmd_process_s{$/;"	s	file:
+copy_with_escape	./ixml.c	/^copy_with_escape( INOUT ixml_membuf * buf,$/;"	f	file:
+copy_with_escape	ixml.c	/^copy_with_escape( INOUT ixml_membuf * buf,$/;"	f	file:
+curPtr	./ixmlparser.h	/^    char            *curPtr;		\/\/ptr to the token parsed $/;"	m	struct:_Parser
+curPtr	ixmlparser.h	/^    char            *curPtr;		\/\/ptr to the token parsed $/;"	m	struct:_Parser
+currentNodePtr	./ixmlparser.h	/^    IXML_Node           *currentNodePtr;$/;"	m	struct:_Parser
+currentNodePtr	ixmlparser.h	/^    IXML_Node           *currentNodePtr;$/;"	m	struct:_Parser
+dataBuffer	./ixmlparser.h	/^    char            *dataBuffer;	\/\/data buffer$/;"	m	struct:_Parser
+dataBuffer	ixmlparser.h	/^    char            *dataBuffer;	\/\/data buffer$/;"	m	struct:_Parser
+del_static_dhcp	./qsdk/qsdk.c	/^int del_static_dhcp(char *mac,char *ip)$/;"	f
+deletequot	./openwrt/openwrt.c	/^void deletequot(char *str)$/;"	f
+deletequot	./qsdk/qsdk.c	/^void deletequot(char *str)$/;"	f
+doc	./connectmng.c	/^    struct xmldoc *doc;$/;"	m	struct:xmlinfo_s	typeref:struct:xmlinfo_s::xmldoc	file:
+doc	connectmng.c	/^    struct xmldoc *doc;$/;"	m	struct:xmlinfo_s	typeref:struct:xmlinfo_s::xmldoc	file:
+eATTRIBUTE	./ixmlparser.h	/^    eATTRIBUTE,$/;"	e	enum:__anon13
+eATTRIBUTE	ixmlparser.h	/^    eATTRIBUTE,$/;"	e	enum:__anon4
+eATTRIBUTE_NODE	./ixml.h	/^    eATTRIBUTE_NODE                 = 2,$/;"	e	enum:__anon8
+eATTRIBUTE_NODE	ixml.h	/^    eATTRIBUTE_NODE                 = 2,$/;"	e	enum:__anon1
+eCDATA_SECTION_NODE	./ixml.h	/^    eCDATA_SECTION_NODE             = 4,$/;"	e	enum:__anon8
+eCDATA_SECTION_NODE	ixml.h	/^    eCDATA_SECTION_NODE             = 4,$/;"	e	enum:__anon1
+eCOMMENT_NODE	./ixml.h	/^    eCOMMENT_NODE                   = 8,$/;"	e	enum:__anon8
+eCOMMENT_NODE	ixml.h	/^    eCOMMENT_NODE                   = 8,$/;"	e	enum:__anon1
+eCONTENT	./ixmlparser.h	/^    eCONTENT,$/;"	e	enum:__anon13
+eCONTENT	ixmlparser.h	/^    eCONTENT,$/;"	e	enum:__anon4
+eDOCUMENT_FRAGMENT_NODE	./ixml.h	/^    eDOCUMENT_FRAGMENT_NODE         = 11,$/;"	e	enum:__anon8
+eDOCUMENT_FRAGMENT_NODE	ixml.h	/^    eDOCUMENT_FRAGMENT_NODE         = 11,$/;"	e	enum:__anon1
+eDOCUMENT_NODE	./ixml.h	/^    eDOCUMENT_NODE                  = 9,$/;"	e	enum:__anon8
+eDOCUMENT_NODE	ixml.h	/^    eDOCUMENT_NODE                  = 9,$/;"	e	enum:__anon1
+eDOCUMENT_TYPE_NODE	./ixml.h	/^    eDOCUMENT_TYPE_NODE             = 10,$/;"	e	enum:__anon8
+eDOCUMENT_TYPE_NODE	ixml.h	/^    eDOCUMENT_TYPE_NODE             = 10,$/;"	e	enum:__anon1
+eELEMENT	./ixmlparser.h	/^    eELEMENT,$/;"	e	enum:__anon13
+eELEMENT	ixmlparser.h	/^    eELEMENT,$/;"	e	enum:__anon4
+eELEMENT_NODE	./ixml.h	/^    eELEMENT_NODE                   = 1,$/;"	e	enum:__anon8
+eELEMENT_NODE	ixml.h	/^    eELEMENT_NODE                   = 1,$/;"	e	enum:__anon1
+eENTITY_NODE	./ixml.h	/^    eENTITY_NODE                    = 6,                $/;"	e	enum:__anon8
+eENTITY_NODE	ixml.h	/^    eENTITY_NODE                    = 6,                $/;"	e	enum:__anon1
+eENTITY_REFERENCE_NODE	./ixml.h	/^    eENTITY_REFERENCE_NODE          = 5,$/;"	e	enum:__anon8
+eENTITY_REFERENCE_NODE	ixml.h	/^    eENTITY_REFERENCE_NODE          = 5,$/;"	e	enum:__anon1
+eINVALID_NODE	./ixml.h	/^    eINVALID_NODE                   = 0,$/;"	e	enum:__anon8
+eINVALID_NODE	ixml.h	/^    eINVALID_NODE                   = 0,$/;"	e	enum:__anon1
+eNOTATION_NODE	./ixml.h	/^    eNOTATION_NODE                  = 12,$/;"	e	enum:__anon8
+eNOTATION_NODE	ixml.h	/^    eNOTATION_NODE                  = 12,$/;"	e	enum:__anon1
+ePROCESSING_INSTRUCTION_NODE	./ixml.h	/^    ePROCESSING_INSTRUCTION_NODE    = 7,$/;"	e	enum:__anon8
+ePROCESSING_INSTRUCTION_NODE	ixml.h	/^    ePROCESSING_INSTRUCTION_NODE    = 7,$/;"	e	enum:__anon1
+eTEXT_NODE	./ixml.h	/^    eTEXT_NODE                      = 3,$/;"	e	enum:__anon8
+eTEXT_NODE	ixml.h	/^    eTEXT_NODE                      = 3,$/;"	e	enum:__anon1
+eTxBF	./ralink/ramng.h	/^		unsigned short	eTxBF:1;$/;"	m	struct:_MACHTTRANSMIT_SETTING::__anon7
+element	./ixmlparser.h	/^    char                    *element;$/;"	m	struct:_IXML_ElementStack
+element	ixmlparser.h	/^    char                    *element;$/;"	m	struct:_IXML_ElementStack
+enable	./openwrt/openwrt.c	/^    int enable;$/;"	m	struct:tagPowerSaveList	file:
+enable	./qsdk/qsdk.c	/^    int enable;$/;"	m	struct:tagPowerSaveList	file:
+encryption	./openwrt/openwrt.c	/^    char encryption[4];$/;"	m	struct:tagSSIDInfo	file:
+encryption	./qsdk/qsdk.c	/^    char encryption[4];$/;"	m	struct:tagSSIDInfo	file:
+encryption	./route.h	/^    char encryption[32];$/;"	m	struct:ap_info_entry_s
+encryption	route.h	/^    char encryption[32];$/;"	m	struct:ap_info_entry_s
+entry	./route.h	/^    AP_INFO_ENTRY entry[100];$/;"	m	struct:scan_ap_table_s
+entry	./route.h	/^    STA_MAC_ENTRY entry[20];$/;"	m	struct:sta_mac_table_s
+entry	./route.h	/^    static_dhcp_entry entry[100];$/;"	m	struct:static_dhcp_table_s
+entry	route.h	/^    AP_INFO_ENTRY entry[100];$/;"	m	struct:scan_ap_table_s
+entry	route.h	/^    STA_MAC_ENTRY entry[20];$/;"	m	struct:sta_mac_table_s
+entry	route.h	/^    static_dhcp_entry entry[100];$/;"	m	struct:static_dhcp_table_s
+expires	./route.h	/^	unsigned char expires[12];$/;"	m	struct:DhcpInfo
+expires	route.h	/^	unsigned char expires[12];$/;"	m	struct:DhcpInfo
+field	./ralink/ramng.h	/^	} field;$/;"	m	union:_MACHTTRANSMIT_SETTING	typeref:struct:_MACHTTRANSMIT_SETTING::__anon7
+find_client	./connectmng.c	/^tcp_client *find_client()$/;"	f
+find_client	connectmng.c	/^tcp_client *find_client()$/;"	f
+find_element	./xmldoc.c	/^static struct xmlelement *find_element(IXML_Node *node, const char *key) {$/;"	f	file:
+find_element	xmldoc.c	/^static struct xmlelement *find_element(IXML_Node *node, const char *key) {$/;"	f	file:
+find_element_in_doc	./xmldoc.c	/^struct xmlelement *find_element_in_doc(struct xmldoc *doc,$/;"	f
+find_element_in_doc	xmldoc.c	/^struct xmlelement *find_element_in_doc(struct xmldoc *doc,$/;"	f
+find_element_in_element	./xmldoc.c	/^struct xmlelement *find_element_in_element(struct xmlelement *element,$/;"	f
+find_element_in_element	xmldoc.c	/^struct xmlelement *find_element_in_element(struct xmlelement *element,$/;"	f
+firstAttr	./ixml.h	/^    Nodeptr         firstAttr;$/;"	m	struct:_IXML_Node
+firstAttr	ixml.h	/^    Nodeptr         firstAttr;$/;"	m	struct:_IXML_Node
+firstChild	./ixml.h	/^    Nodeptr         firstChild;$/;"	m	struct:_IXML_Node
+firstChild	ixml.h	/^    Nodeptr         firstChild;$/;"	m	struct:_IXML_Node
+g_error_char	./ixmlparser.c	/^static char g_error_char = '\\0';$/;"	v	file:
+g_error_char	ixmlparser.c	/^static char g_error_char = '\\0';$/;"	v	file:
+getConnectMode	./openwrt/openwrt.c	/^int getConnectMode()$/;"	f
+getConnectMode	./qsdk/qsdk.c	/^int getConnectMode()$/;"	f
+getDhcpCliList	./openwrt/openwrt.c	/^int getDhcpCliList(struct DhcpInfo *dhcpinfo,int *num)$/;"	f
+getDhcpCliList	./qsdk/qsdk.c	/^int getDhcpCliList(struct DhcpInfo *dhcpinfo,int *num)$/;"	f
+getDhcpCliList	./ralink/ramng.c	/^int getDhcpCliList(struct DhcpInfo *dhcpinfo,int *num)$/;"	f
+getDhcpCliList	./test/test.c	/^int getDhcpCliList(struct dhcpinfo *dhcpinfo,int *num)$/;"	f
+getIfIp	./ralink/ramng.c	/^int getIfIp(char *ifname, char *if_addr)$/;"	f
+getIfIp	./test/test.c	/^int getIfIp(char *ifname, char *if_addr)$/;"	f
+getIfMac	./openwrt/openwrt.c	/^int getIfMac(char *ifname, char *if_hw)$/;"	f
+getIfMac	./qsdk/qsdk.c	/^int getIfMac(char *ifname, char *if_hw)$/;"	f
+getIfMac	./ralink/ramng.c	/^int getIfMac(char *ifname, char *if_hw)$/;"	f
+getIfMac	./test/test.c	/^int getIfMac(char *ifname, char *if_hw)$/;"	f
+getIfNetmask	./openwrt/openwrt.c	/^int getIfNetmask(char *ifname, char *if_net)$/;"	f
+getIfNetmask	./qsdk/qsdk.c	/^int getIfNetmask(char *ifname, char *if_net)$/;"	f
+getIfNetmask	./ralink/ramng.c	/^int getIfNetmask(char *ifname, char *if_net)$/;"	f
+getIfNetmask	./test/test.c	/^int getIfNetmask(char *ifname, char *if_net)$/;"	f
+getNthValueSafe	./ralink/ramng.c	/^int getNthValueSafe(int index, char *value, char delimit, char *result, int len)$/;"	f
+getSSIDName	./openwrt/openwrt.c	/^int getSSIDName(char *ssid,char *name)$/;"	f
+getSSIDName	./qsdk/qsdk.c	/^int getSSIDName(char *ssid,char *name)$/;"	f
+getScanApInfo	./openwrt/openwrt.c	/^int getScanApInfo(SCAN_AP_TABLE *aptable)$/;"	f
+getScanApInfo	./qsdk/qsdk.c	/^int getScanApInfo(SCAN_AP_TABLE *aptable)$/;"	f
+getWanGateway	./openwrt/openwrt.c	/^int getWanGateway(char *sgw)$/;"	f
+getWanGateway	./qsdk/qsdk.c	/^int getWanGateway(char *sgw)$/;"	f
+getWanGateway	./ralink/ramng.c	/^int getWanGateway(char *sgw)$/;"	f
+getWanGateway	./test/test.c	/^int getWanGateway(char *sgw)$/;"	f
+getWanIfNamePPP	./ralink/ramng.c	/^char* getWanIfNamePPP(void)$/;"	f
+getWanIfNamePPP	./test/test.c	/^char* getWanIfNamePPP(void)$/;"	f
+getWanIp	./openwrt/openwrt.c	/^int getWanIp(char *if_addr)$/;"	f
+getWanIp	./qsdk/qsdk.c	/^int getWanIp(char *if_addr)$/;"	f
+getWanIp	./ralink/ramng.c	/^int getWanIp(char *if_addr)$/;"	f
+getWanIp	./test/test.c	/^int getWanIp(char *if_addr)$/;"	f
+getWanMac	./openwrt/openwrt.c	/^int getWanMac(char *if_mac)$/;"	f
+getWanMac	./qsdk/qsdk.c	/^int getWanMac(char *if_mac)$/;"	f
+getWanMac	./ralink/ramng.c	/^int getWanMac(char *if_mac)$/;"	f
+getWanMac	./test/test.c	/^int getWanMac(char *if_mac)$/;"	f
+getWiFiChannel	./openwrt/openwrt.c	/^int getWiFiChannel(char *ifname)$/;"	f
+getWiFiChannel	./qsdk/qsdk.c	/^int getWiFiChannel(char *ifname)$/;"	f
+getWiFiCountry	./qsdk/qsdk.c	/^int getWiFiCountry(char *country)$/;"	f
+getWiFiEncryption	./openwrt/openwrt.c	/^int getWiFiEncryption(char *ifname,char *encry)$/;"	f
+getWiFiEncryption	./qsdk/qsdk.c	/^int getWiFiEncryption(char *ifname,char *encry)$/;"	f
+getWirelessRepeaterInfo	./openwrt/openwrt.c	/^int getWirelessRepeaterInfo(int *status,char *ssid,char *bssid,char *channel,$/;"	f
+getWirelessRepeaterInfo	./qsdk/qsdk.c	/^int getWirelessRepeaterInfo(int *status,char *ssid,char *bssid,char *channel,$/;"	f
+getWlanStaInfo	./openwrt/openwrt.c	/^int getWlanStaInfo(char *ifname,STA_MAC_TABLE *mactable)$/;"	f
+getWlanStaInfo	./qsdk/qsdk.c	/^int getWlanStaInfo(char *ifname,STA_MAC_TABLE *mactable)$/;"	f
+getWlanStaInfo	./ralink/ramng.c	/^int getWlanStaInfo(char *ifname,STA_MAC_TABLE *statable)$/;"	f
+getWlanStaInfo	./test/test.c	/^int getWlanStaInfo(char *ifname,STA_MAC_TABLE *table)$/;"	f
+get_Dns	./openwrt/openwrt.c	/^int get_Dns(char *dns1,char *dns2,int *num)$/;"	f
+get_Dns	./qsdk/qsdk.c	/^int get_Dns(char *dns1,char *dns2,int *num)$/;"	f
+get_Dns	./ralink/ramng.c	/^int get_Dns(char *dns1,char *dns2,int *num)$/;"	f
+get_Dns	./test/test.c	/^int get_Dns(char *dns1,char *dns2)$/;"	f
+get_admin	./openwrt/openwrt.c	/^int get_admin(char *user,char *pwd)$/;"	f
+get_admin	./qsdk/qsdk.c	/^int get_admin(char *user,char *pwd)$/;"	f
+get_admin	./ralink/ramng.c	/^int get_admin(char *user,char *pwd)$/;"	f
+get_admin	./test/test.c	/^int get_admin(char *user,char *pwd)$/;"	f
+get_channel	./openwrt/openwrt.c	/^int get_channel(char *channel)$/;"	f
+get_channel	./qsdk/qsdk.c	/^int get_channel(char *channel)$/;"	f
+get_channel	./ralink/ramng.c	/^int get_channel(char *channel)$/;"	f
+get_channel	./test/test.c	/^int get_channel(char *channel)$/;"	f
+get_node_value	./xmldoc.c	/^char *get_node_value(struct xmlelement *element) {$/;"	f
+get_node_value	xmldoc.c	/^char *get_node_value(struct xmlelement *element) {$/;"	f
+get_pppoe_info	./openwrt/openwrt.c	/^int get_pppoe_info(char *user,char *pwd)$/;"	f
+get_pppoe_info	./qsdk/qsdk.c	/^int get_pppoe_info(char *user,char *pwd)$/;"	f
+get_pppoe_info	./ralink/ramng.c	/^int get_pppoe_info(char *user,char *pwd)$/;"	f
+get_pppoe_info	./test/test.c	/^int get_pppoe_info(char *user,char *pwd)$/;"	f
+get_ssid	./openwrt/openwrt.c	/^int get_ssid(int index,char *ssid)$/;"	f
+get_ssid	./qsdk/qsdk.c	/^int get_ssid(int index,char *ssid)$/;"	f
+get_ssid	./ralink/ramng.c	/^int get_ssid(int index,char *ssid)$/;"	f
+get_ssid	./test/test.c	/^int get_ssid(int index,char *ssid)$/;"	f
+get_ssid_authmode	./openwrt/openwrt.c	/^int get_ssid_authmode(int index,char *strAuth)$/;"	f
+get_ssid_authmode	./qsdk/qsdk.c	/^int get_ssid_authmode(int index,char *strAuth)$/;"	f
+get_ssid_authmode	./ralink/ramng.c	/^int get_ssid_authmode(int index,char *auth)$/;"	f
+get_ssid_authmode	./test/test.c	/^int get_ssid_authmode(int index,char *auth)$/;"	f
+get_ssid_encry	./openwrt/openwrt.c	/^int get_ssid_encry(int index,char *encry)$/;"	f
+get_ssid_encry	./qsdk/qsdk.c	/^int get_ssid_encry(int index,char *encry)$/;"	f
+get_ssid_encry	./ralink/ramng.c	/^int get_ssid_encry(int index,char *encry)$/;"	f
+get_ssid_encry	./test/test.c	/^int get_ssid_encry(int index,char *encry)$/;"	f
+get_ssid_hide	./openwrt/openwrt.c	/^int get_ssid_hide(int index,char *strHide)$/;"	f
+get_ssid_hide	./qsdk/qsdk.c	/^int get_ssid_hide(int index,char *strHide)$/;"	f
+get_ssid_hide	./ralink/ramng.c	/^int get_ssid_hide(int index,char *hide)$/;"	f
+get_ssid_hide	./test/test.c	/^int get_ssid_hide(int index,char *hide)$/;"	f
+get_ssid_password	./openwrt/openwrt.c	/^int get_ssid_password(int index,char *pwd)$/;"	f
+get_ssid_password	./qsdk/qsdk.c	/^int get_ssid_password(int index,char *pwd)$/;"	f
+get_ssid_password	./ralink/ramng.c	/^int get_ssid_password(int index,char *pwd)$/;"	f
+get_ssid_password	./test/test.c	/^int get_ssid_password(int index,char *pwd)$/;"	f
+get_static_info	./openwrt/openwrt.c	/^int get_static_info(char *ip,char *netmask,char *gateway,char *dns1,char *dns2)$/;"	f
+get_static_info	./qsdk/qsdk.c	/^int get_static_info(char *ip,char *netmask,char *gateway,char *dns1,char *dns2)$/;"	f
+get_static_info	./ralink/ramng.c	/^int get_static_info(char *ip,char *netmask,char *gateway,char *dns1,char *dns2)$/;"	f
+get_static_info	./test/test.c	/^int get_static_info(char *ip,char *netmask,char *gateway,char *dns1,char *dns2)$/;"	f
+get_version	./qsdk/qsdk.c	/^int get_version(char *version)$/;"	f
+get_wan_broadcast	./qsdk/qsdk.c	/^int get_wan_broadcast(char *bcast_addr)$/;"	f
+get_wan_ifname	./openwrt/openwrt.c	/^char *get_wan_ifname()$/;"	f
+get_wan_ifname	./qsdk/qsdk.c	/^char *get_wan_ifname()$/;"	f
+get_wan_ifname	./ralink/ramng.c	/^char  *get_wan_ifname()$/;"	f
+get_wan_ifname	./test/test.c	/^char  *get_wan_ifname()$/;"	f
+get_wan_mode	./openwrt/openwrt.c	/^int get_wan_mode(char *mode)$/;"	f
+get_wan_mode	./qsdk/qsdk.c	/^int get_wan_mode(char *mode)$/;"	f
+get_wan_mode	./ralink/ramng.c	/^int get_wan_mode(char *mode)$/;"	f
+get_wan_mode	./test/test.c	/^int get_wan_mode(char *mode)$/;"	f
+get_wan_name	./openwrt/openwrt.c	/^int get_wan_name(char *ifname)$/;"	f
+get_wan_name	./qsdk/qsdk.c	/^int get_wan_name(char *ifname)$/;"	f
+get_wifi_basic	./openwrt/openwrt.c	/^int get_wifi_basic(char *channel,char *strStrenth)$/;"	f
+get_wifi_basic	./qsdk/qsdk.c	/^int get_wifi_basic(char *channel,char *strStrenth,char *strCountry)$/;"	f
+get_wifi_basic	./ralink/ramng.c	/^int get_wifi_basic(char *Channel,char *Strenth)$/;"	f
+get_wifi_basic	./test/test.c	/^int get_wifi_basic(char *Channel,char *Strenth)$/;"	f
+get_wifi_status	./openwrt/openwrt.c	/^int get_wifi_status(char *status)$/;"	f
+get_wifi_status	./qsdk/qsdk.c	/^int get_wifi_status(char *status)$/;"	f
+get_wifi_status	./ralink/ramng.c	/^int get_wifi_status(char *status)$/;"	f
+get_wifi_status	./test/test.c	/^int get_wifi_status(char *status)$/;"	f
+getcmd	./connectmng.c	/^cmd_process getcmd[] = {$/;"	v
+getcmd	connectmng.c	/^cmd_process getcmd[] = {$/;"	v
+getdhcpclient	./connectmng.c	/^int getdhcpclient(int socket,void *args)$/;"	f
+getdhcpclient	connectmng.c	/^int getdhcpclient(int socket,void *args)$/;"	f
+getdhcpstatic	./connectmng.c	/^int getdhcpstatic(int socket,void *args)$/;"	f
+getdhcpstatic	connectmng.c	/^int getdhcpstatic(int socket,void *args)$/;"	f
+getphylink	./openwrt/statusdem.c	/^static int getphylink(const char *ifname)$/;"	f	file:
+getssid	./connectmng.c	/^int getssid(int socket,void *args)$/;"	f
+getssid	connectmng.c	/^int getssid(int socket,void *args)$/;"	f
+getsysinfo	./connectmng.c	/^int getsysinfo(int socket,void *args)$/;"	f
+getsysinfo	connectmng.c	/^int getsysinfo(int socket,void *args)$/;"	f
+getuser	./connectmng.c	/^int getuser(int socket,void *args)$/;"	f
+getuser	connectmng.c	/^int getuser(int socket,void *args)$/;"	f
+getwan	./connectmng.c	/^int getwan(int socket,void *args)$/;"	f
+getwan	connectmng.c	/^int getwan(int socket,void *args)$/;"	f
+getwanlink	./connectmng.c	/^int getwanlink(int socket,void *args)$/;"	f
+getwanlink	connectmng.c	/^int getwanlink(int socket,void *args)$/;"	f
+getwifibasic	./connectmng.c	/^int getwifibasic(int socket,void *args)$/;"	f
+getwifibasic	connectmng.c	/^int getwifibasic(int socket,void *args)$/;"	f
+getwificlient	./connectmng.c	/^int getwificlient(int socket,void *args)$/;"	f
+getwificlient	connectmng.c	/^int getwificlient(int socket,void *args)$/;"	f
+getwifirepeater	./connectmng.c	/^int getwifirepeater(int socket,void *args)$/;"	f
+getwifirepeater	connectmng.c	/^int getwifirepeater(int socket,void *args)$/;"	f
+h	./ixmlparser.c	/^      h;$/;"	m	struct:char_info	file:
+h	ixmlparser.c	/^      h;$/;"	m	struct:char_info	file:
+haslinkup	./openwrt/statusdem.c	/^static int haslinkup = 0;$/;"	v	file:
+hide	./openwrt/openwrt.c	/^    int hide;$/;"	m	struct:tagSSIDInfo	file:
+hide	./qsdk/qsdk.c	/^    int hide;$/;"	m	struct:tagSSIDInfo	file:
+hostname	./route.h	/^	unsigned char hostname[16];$/;"	m	struct:DhcpInfo
+hostname	route.h	/^	unsigned char hostname[16];$/;"	m	struct:DhcpInfo
+iTxBF	./ralink/ramng.h	/^		unsigned short	iTxBF:1;$/;"	m	struct:_MACHTTRANSMIT_SETTING::__anon7
+ip	./route.h	/^	unsigned char ip[18];$/;"	m	struct:DhcpInfo
+ip	./route.h	/^	unsigned char ip[18];$/;"	m	struct:sta_mac_entry_s
+ip	./route.h	/^    char ip[17];$/;"	m	struct:static_dhcp_entry_s
+ip	route.h	/^	unsigned char ip[18];$/;"	m	struct:DhcpInfo
+ip	route.h	/^	unsigned char ip[18];$/;"	m	struct:sta_mac_entry_s
+ip	route.h	/^    char ip[17];$/;"	m	struct:static_dhcp_entry_s
+isDuplicateAttribute	./ixmlparser.c	/^isDuplicateAttribute( IN Parser * xmlParser,$/;"	f	file:
+isDuplicateAttribute	ixmlparser.c	/^isDuplicateAttribute( IN Parser * xmlParser,$/;"	f	file:
+isTopLevelElement	./ixmlparser.c	/^isTopLevelElement( IN Parser * xmlParser )$/;"	f	file:
+isTopLevelElement	ixmlparser.c	/^isTopLevelElement( IN Parser * xmlParser )$/;"	f	file:
+ixmlAttr_free	./attr.c	/^ixmlAttr_free( IN IXML_Attr * attr )$/;"	f
+ixmlAttr_free	attr.c	/^ixmlAttr_free( IN IXML_Attr * attr )$/;"	f
+ixmlAttr_init	./attr.c	/^ixmlAttr_init( IN IXML_Attr * attr )$/;"	f
+ixmlAttr_init	attr.c	/^ixmlAttr_init( IN IXML_Attr * attr )$/;"	f
+ixmlCDATASection_free	./node.c	/^ixmlCDATASection_free( IN IXML_CDATASection * nodeptr )$/;"	f
+ixmlCDATASection_free	node.c	/^ixmlCDATASection_free( IN IXML_CDATASection * nodeptr )$/;"	f
+ixmlCDATASection_init	./node.c	/^ixmlCDATASection_init( IN IXML_CDATASection * nodeptr )$/;"	f
+ixmlCDATASection_init	node.c	/^ixmlCDATASection_init( IN IXML_CDATASection * nodeptr )$/;"	f
+ixmlCloneDOMString	./ixml.c	/^ixmlCloneDOMString( IN const DOMString src )$/;"	f
+ixmlCloneDOMString	ixml.c	/^ixmlCloneDOMString( IN const DOMString src )$/;"	f
+ixmlDocument_createAttribute	./document.c	/^ixmlDocument_createAttribute( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createAttribute	document.c	/^ixmlDocument_createAttribute( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createAttributeEx	./document.c	/^ixmlDocument_createAttributeEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createAttributeEx	document.c	/^ixmlDocument_createAttributeEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createAttributeNS	./document.c	/^ixmlDocument_createAttributeNS( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createAttributeNS	document.c	/^ixmlDocument_createAttributeNS( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createAttributeNSEx	./document.c	/^ixmlDocument_createAttributeNSEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createAttributeNSEx	document.c	/^ixmlDocument_createAttributeNSEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createCDATASection	./document.c	/^ixmlDocument_createCDATASection( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createCDATASection	document.c	/^ixmlDocument_createCDATASection( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createCDATASectionEx	./document.c	/^ixmlDocument_createCDATASectionEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createCDATASectionEx	document.c	/^ixmlDocument_createCDATASectionEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createDocument	./document.c	/^ixmlDocument_createDocument(  )$/;"	f
+ixmlDocument_createDocument	document.c	/^ixmlDocument_createDocument(  )$/;"	f
+ixmlDocument_createDocumentEx	./document.c	/^ixmlDocument_createDocumentEx( OUT IXML_Document ** rtDoc )$/;"	f
+ixmlDocument_createDocumentEx	document.c	/^ixmlDocument_createDocumentEx( OUT IXML_Document ** rtDoc )$/;"	f
+ixmlDocument_createElement	./document.c	/^ixmlDocument_createElement( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createElement	document.c	/^ixmlDocument_createElement( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createElementEx	./document.c	/^ixmlDocument_createElementEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createElementEx	document.c	/^ixmlDocument_createElementEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createElementNS	./document.c	/^ixmlDocument_createElementNS( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createElementNS	document.c	/^ixmlDocument_createElementNS( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createElementNSEx	./document.c	/^ixmlDocument_createElementNSEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createElementNSEx	document.c	/^ixmlDocument_createElementNSEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createTextNode	./document.c	/^ixmlDocument_createTextNode( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createTextNode	document.c	/^ixmlDocument_createTextNode( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createTextNodeEx	./document.c	/^ixmlDocument_createTextNodeEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_createTextNodeEx	document.c	/^ixmlDocument_createTextNodeEx( IN IXML_Document * doc,$/;"	f
+ixmlDocument_free	./document.c	/^ixmlDocument_free( IN IXML_Document * doc )$/;"	f
+ixmlDocument_free	document.c	/^ixmlDocument_free( IN IXML_Document * doc )$/;"	f
+ixmlDocument_getElementById	./document.c	/^ixmlDocument_getElementById( IN IXML_Document * doc,$/;"	f
+ixmlDocument_getElementById	document.c	/^ixmlDocument_getElementById( IN IXML_Document * doc,$/;"	f
+ixmlDocument_getElementsByTagName	./document.c	/^ixmlDocument_getElementsByTagName( IN IXML_Document * doc,$/;"	f
+ixmlDocument_getElementsByTagName	document.c	/^ixmlDocument_getElementsByTagName( IN IXML_Document * doc,$/;"	f
+ixmlDocument_getElementsByTagNameNS	./document.c	/^ixmlDocument_getElementsByTagNameNS( IN IXML_Document * doc,$/;"	f
+ixmlDocument_getElementsByTagNameNS	document.c	/^ixmlDocument_getElementsByTagNameNS( IN IXML_Document * doc,$/;"	f
+ixmlDocument_importNode	./document.c	/^ixmlDocument_importNode( IN IXML_Document * doc,$/;"	f
+ixmlDocument_importNode	document.c	/^ixmlDocument_importNode( IN IXML_Document * doc,$/;"	f
+ixmlDocument_init	./document.c	/^ixmlDocument_init( IN IXML_Document * doc )$/;"	f
+ixmlDocument_init	document.c	/^ixmlDocument_init( IN IXML_Document * doc )$/;"	f
+ixmlDocument_setOwnerDocument	./document.c	/^ixmlDocument_setOwnerDocument( IN IXML_Document * doc,$/;"	f
+ixmlDocument_setOwnerDocument	document.c	/^ixmlDocument_setOwnerDocument( IN IXML_Document * doc,$/;"	f
+ixmlDocumenttoString	./ixml.h	1709;"	d
+ixmlDocumenttoString	ixml.h	1709;"	d
+ixmlDomTreetoString	./ixml.c	/^ixmlDomTreetoString( IN IXML_Node * nodeptr,$/;"	f
+ixmlDomTreetoString	ixml.c	/^ixmlDomTreetoString( IN IXML_Node * nodeptr,$/;"	f
+ixmlElement_findAttributeNode	./element.c	/^ixmlElement_findAttributeNode( IN IXML_Element * element,$/;"	f
+ixmlElement_findAttributeNode	element.c	/^ixmlElement_findAttributeNode( IN IXML_Element * element,$/;"	f
+ixmlElement_free	./element.c	/^ixmlElement_free( IN IXML_Element * element )$/;"	f
+ixmlElement_free	element.c	/^ixmlElement_free( IN IXML_Element * element )$/;"	f
+ixmlElement_getAttribute	./element.c	/^ixmlElement_getAttribute( IN IXML_Element * element,$/;"	f
+ixmlElement_getAttribute	element.c	/^ixmlElement_getAttribute( IN IXML_Element * element,$/;"	f
+ixmlElement_getAttributeNS	./element.c	/^ixmlElement_getAttributeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_getAttributeNS	element.c	/^ixmlElement_getAttributeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_getAttributeNode	./element.c	/^ixmlElement_getAttributeNode( IN IXML_Element * element,$/;"	f
+ixmlElement_getAttributeNode	element.c	/^ixmlElement_getAttributeNode( IN IXML_Element * element,$/;"	f
+ixmlElement_getAttributeNodeNS	./element.c	/^ixmlElement_getAttributeNodeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_getAttributeNodeNS	element.c	/^ixmlElement_getAttributeNodeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_getElementsByTagName	./element.c	/^ixmlElement_getElementsByTagName( IN IXML_Element * element,$/;"	f
+ixmlElement_getElementsByTagName	element.c	/^ixmlElement_getElementsByTagName( IN IXML_Element * element,$/;"	f
+ixmlElement_getElementsByTagNameNS	./element.c	/^ixmlElement_getElementsByTagNameNS( IN IXML_Element * element,$/;"	f
+ixmlElement_getElementsByTagNameNS	element.c	/^ixmlElement_getElementsByTagNameNS( IN IXML_Element * element,$/;"	f
+ixmlElement_getTagName	./element.c	/^ixmlElement_getTagName( IN IXML_Element * element )$/;"	f
+ixmlElement_getTagName	element.c	/^ixmlElement_getTagName( IN IXML_Element * element )$/;"	f
+ixmlElement_hasAttribute	./element.c	/^ixmlElement_hasAttribute( IN IXML_Element * element,$/;"	f
+ixmlElement_hasAttribute	element.c	/^ixmlElement_hasAttribute( IN IXML_Element * element,$/;"	f
+ixmlElement_hasAttributeNS	./element.c	/^ixmlElement_hasAttributeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_hasAttributeNS	element.c	/^ixmlElement_hasAttributeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_init	./element.c	/^ixmlElement_init( IN IXML_Element * element )$/;"	f
+ixmlElement_init	element.c	/^ixmlElement_init( IN IXML_Element * element )$/;"	f
+ixmlElement_removeAttribute	./element.c	/^ixmlElement_removeAttribute( IN IXML_Element * element,$/;"	f
+ixmlElement_removeAttribute	element.c	/^ixmlElement_removeAttribute( IN IXML_Element * element,$/;"	f
+ixmlElement_removeAttributeNS	./element.c	/^ixmlElement_removeAttributeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_removeAttributeNS	element.c	/^ixmlElement_removeAttributeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_removeAttributeNode	./element.c	/^ixmlElement_removeAttributeNode( IN IXML_Element * element,$/;"	f
+ixmlElement_removeAttributeNode	element.c	/^ixmlElement_removeAttributeNode( IN IXML_Element * element,$/;"	f
+ixmlElement_setAttribute	./element.c	/^ixmlElement_setAttribute( IN IXML_Element * element,$/;"	f
+ixmlElement_setAttribute	element.c	/^ixmlElement_setAttribute( IN IXML_Element * element,$/;"	f
+ixmlElement_setAttributeNS	./element.c	/^ixmlElement_setAttributeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_setAttributeNS	element.c	/^ixmlElement_setAttributeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_setAttributeNode	./element.c	/^ixmlElement_setAttributeNode( IN IXML_Element * element,$/;"	f
+ixmlElement_setAttributeNode	element.c	/^ixmlElement_setAttributeNode( IN IXML_Element * element,$/;"	f
+ixmlElement_setAttributeNodeNS	./element.c	/^ixmlElement_setAttributeNodeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_setAttributeNodeNS	element.c	/^ixmlElement_setAttributeNodeNS( IN IXML_Element * element,$/;"	f
+ixmlElement_setTagName	./element.c	/^ixmlElement_setTagName( IN IXML_Element * element,$/;"	f
+ixmlElement_setTagName	element.c	/^ixmlElement_setTagName( IN IXML_Element * element,$/;"	f
+ixmlFreeDOMString	./ixml.c	/^ixmlFreeDOMString( IN DOMString buf )$/;"	f
+ixmlFreeDOMString	ixml.c	/^ixmlFreeDOMString( IN DOMString buf )$/;"	f
+ixmlLoadDocument	./ixml.c	/^ixmlLoadDocument( IN char *xmlFile )$/;"	f
+ixmlLoadDocument	ixml.c	/^ixmlLoadDocument( IN char *xmlFile )$/;"	f
+ixmlLoadDocumentEx	./ixml.c	/^ixmlLoadDocumentEx( IN char *xmlFile,$/;"	f
+ixmlLoadDocumentEx	ixml.c	/^ixmlLoadDocumentEx( IN char *xmlFile,$/;"	f
+ixmlNamedNodeMap_addToNamedNodeMap	./namedNodeMap.c	/^ixmlNamedNodeMap_addToNamedNodeMap( IN IXML_NamedNodeMap ** nnMap,$/;"	f
+ixmlNamedNodeMap_addToNamedNodeMap	namedNodeMap.c	/^ixmlNamedNodeMap_addToNamedNodeMap( IN IXML_NamedNodeMap ** nnMap,$/;"	f
+ixmlNamedNodeMap_free	./namedNodeMap.c	/^ixmlNamedNodeMap_free( IXML_NamedNodeMap * nnMap )$/;"	f
+ixmlNamedNodeMap_free	namedNodeMap.c	/^ixmlNamedNodeMap_free( IXML_NamedNodeMap * nnMap )$/;"	f
+ixmlNamedNodeMap_getItemNumber	./namedNodeMap.c	/^ixmlNamedNodeMap_getItemNumber( IN IXML_NamedNodeMap * nnMap,$/;"	f
+ixmlNamedNodeMap_getItemNumber	namedNodeMap.c	/^ixmlNamedNodeMap_getItemNumber( IN IXML_NamedNodeMap * nnMap,$/;"	f
+ixmlNamedNodeMap_getLength	./namedNodeMap.c	/^ixmlNamedNodeMap_getLength( IN IXML_NamedNodeMap * nnMap )$/;"	f
+ixmlNamedNodeMap_getLength	namedNodeMap.c	/^ixmlNamedNodeMap_getLength( IN IXML_NamedNodeMap * nnMap )$/;"	f
+ixmlNamedNodeMap_getNamedItem	./namedNodeMap.c	/^ixmlNamedNodeMap_getNamedItem( IN IXML_NamedNodeMap * nnMap,$/;"	f
+ixmlNamedNodeMap_getNamedItem	namedNodeMap.c	/^ixmlNamedNodeMap_getNamedItem( IN IXML_NamedNodeMap * nnMap,$/;"	f
+ixmlNamedNodeMap_init	./namedNodeMap.c	/^ixmlNamedNodeMap_init( IN IXML_NamedNodeMap * nnMap )$/;"	f
+ixmlNamedNodeMap_init	namedNodeMap.c	/^ixmlNamedNodeMap_init( IN IXML_NamedNodeMap * nnMap )$/;"	f
+ixmlNamedNodeMap_item	./namedNodeMap.c	/^ixmlNamedNodeMap_item( IN IXML_NamedNodeMap * nnMap,$/;"	f
+ixmlNamedNodeMap_item	namedNodeMap.c	/^ixmlNamedNodeMap_item( IN IXML_NamedNodeMap * nnMap,$/;"	f
+ixmlNodeList_addToNodeList	./nodeList.c	/^ixmlNodeList_addToNodeList( IN IXML_NodeList ** nList,$/;"	f
+ixmlNodeList_addToNodeList	nodeList.c	/^ixmlNodeList_addToNodeList( IN IXML_NodeList ** nList,$/;"	f
+ixmlNodeList_free	./nodeList.c	/^ixmlNodeList_free( IN IXML_NodeList * nList )$/;"	f
+ixmlNodeList_free	nodeList.c	/^ixmlNodeList_free( IN IXML_NodeList * nList )$/;"	f
+ixmlNodeList_init	./nodeList.c	/^ixmlNodeList_init( IXML_NodeList * nList )$/;"	f
+ixmlNodeList_init	nodeList.c	/^ixmlNodeList_init( IXML_NodeList * nList )$/;"	f
+ixmlNodeList_item	./nodeList.c	/^ixmlNodeList_item( IXML_NodeList * nList,$/;"	f
+ixmlNodeList_item	nodeList.c	/^ixmlNodeList_item( IXML_NodeList * nList,$/;"	f
+ixmlNodeList_length	./nodeList.c	/^ixmlNodeList_length( IN IXML_NodeList * nList )$/;"	f
+ixmlNodeList_length	nodeList.c	/^ixmlNodeList_length( IN IXML_NodeList * nList )$/;"	f
+ixmlNode_allowChildren	./node.c	/^ixmlNode_allowChildren( IXML_Node * nodeptr,$/;"	f
+ixmlNode_allowChildren	node.c	/^ixmlNode_allowChildren( IXML_Node * nodeptr,$/;"	f
+ixmlNode_appendChild	./node.c	/^ixmlNode_appendChild( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_appendChild	node.c	/^ixmlNode_appendChild( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_cloneAttr	./node.c	/^ixmlNode_cloneAttr( IN IXML_Attr * nodeptr )$/;"	f
+ixmlNode_cloneAttr	node.c	/^ixmlNode_cloneAttr( IN IXML_Attr * nodeptr )$/;"	f
+ixmlNode_cloneAttrDirect	./node.c	/^ixmlNode_cloneAttrDirect( IN IXML_Attr * nodeptr )$/;"	f
+ixmlNode_cloneAttrDirect	node.c	/^ixmlNode_cloneAttrDirect( IN IXML_Attr * nodeptr )$/;"	f
+ixmlNode_cloneCDATASect	./node.c	/^ixmlNode_cloneCDATASect( IN IXML_CDATASection * nodeptr )$/;"	f
+ixmlNode_cloneCDATASect	node.c	/^ixmlNode_cloneCDATASect( IN IXML_CDATASection * nodeptr )$/;"	f
+ixmlNode_cloneDoc	./node.c	/^ixmlNode_cloneDoc( IN IXML_Document * nodeptr )$/;"	f
+ixmlNode_cloneDoc	node.c	/^ixmlNode_cloneDoc( IN IXML_Document * nodeptr )$/;"	f
+ixmlNode_cloneElement	./node.c	/^ixmlNode_cloneElement( IN IXML_Element * nodeptr )$/;"	f
+ixmlNode_cloneElement	node.c	/^ixmlNode_cloneElement( IN IXML_Element * nodeptr )$/;"	f
+ixmlNode_cloneNode	./node.c	/^ixmlNode_cloneNode( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_cloneNode	node.c	/^ixmlNode_cloneNode( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_cloneNodeTree	./node.c	/^ixmlNode_cloneNodeTree( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_cloneNodeTree	node.c	/^ixmlNode_cloneNodeTree( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_cloneNodeTreeRecursive	./node.c	/^ixmlNode_cloneNodeTreeRecursive( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_cloneNodeTreeRecursive	node.c	/^ixmlNode_cloneNodeTreeRecursive( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_cloneTextNode	./node.c	/^ixmlNode_cloneTextNode( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_cloneTextNode	node.c	/^ixmlNode_cloneTextNode( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_compare	./node.c	/^ixmlNode_compare( IXML_Node * srcNode,$/;"	f
+ixmlNode_compare	node.c	/^ixmlNode_compare( IXML_Node * srcNode,$/;"	f
+ixmlNode_free	./node.c	/^ixmlNode_free( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_free	node.c	/^ixmlNode_free( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_freeSingleNode	./node.c	/^ixmlNode_freeSingleNode( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_freeSingleNode	node.c	/^ixmlNode_freeSingleNode( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getAttributes	./node.c	/^ixmlNode_getAttributes( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getAttributes	node.c	/^ixmlNode_getAttributes( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getChildNodes	./node.c	/^ixmlNode_getChildNodes( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getChildNodes	node.c	/^ixmlNode_getChildNodes( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getElementsByTagName	./node.c	/^ixmlNode_getElementsByTagName( IN IXML_Node * n,$/;"	f
+ixmlNode_getElementsByTagName	node.c	/^ixmlNode_getElementsByTagName( IN IXML_Node * n,$/;"	f
+ixmlNode_getElementsByTagNameNS	./node.c	/^ixmlNode_getElementsByTagNameNS( IN IXML_Node * n,$/;"	f
+ixmlNode_getElementsByTagNameNS	node.c	/^ixmlNode_getElementsByTagNameNS( IN IXML_Node * n,$/;"	f
+ixmlNode_getElementsByTagNameNSRecursive	./node.c	/^ixmlNode_getElementsByTagNameNSRecursive( IN IXML_Node * n,$/;"	f
+ixmlNode_getElementsByTagNameNSRecursive	node.c	/^ixmlNode_getElementsByTagNameNSRecursive( IN IXML_Node * n,$/;"	f
+ixmlNode_getElementsByTagNameRecursive	./node.c	/^ixmlNode_getElementsByTagNameRecursive( IN IXML_Node * n,$/;"	f
+ixmlNode_getElementsByTagNameRecursive	node.c	/^ixmlNode_getElementsByTagNameRecursive( IN IXML_Node * n,$/;"	f
+ixmlNode_getFirstChild	./node.c	/^ixmlNode_getFirstChild( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getFirstChild	node.c	/^ixmlNode_getFirstChild( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getLastChild	./node.c	/^ixmlNode_getLastChild( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getLastChild	node.c	/^ixmlNode_getLastChild( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getLocalName	./node.c	/^ixmlNode_getLocalName( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getLocalName	node.c	/^ixmlNode_getLocalName( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNamespaceURI	./node.c	/^ixmlNode_getNamespaceURI( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNamespaceURI	node.c	/^ixmlNode_getNamespaceURI( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNextSibling	./node.c	/^ixmlNode_getNextSibling( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNextSibling	node.c	/^ixmlNode_getNextSibling( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNodeName	./node.c	/^ixmlNode_getNodeName( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNodeName	node.c	/^ixmlNode_getNodeName( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNodeType	./node.c	/^ixmlNode_getNodeType( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNodeType	node.c	/^ixmlNode_getNodeType( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNodeValue	./node.c	/^ixmlNode_getNodeValue( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getNodeValue	node.c	/^ixmlNode_getNodeValue( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getOwnerDocument	./node.c	/^ixmlNode_getOwnerDocument( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getOwnerDocument	node.c	/^ixmlNode_getOwnerDocument( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getParentNode	./node.c	/^ixmlNode_getParentNode( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getParentNode	node.c	/^ixmlNode_getParentNode( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getPrefix	./node.c	/^ixmlNode_getPrefix( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getPrefix	node.c	/^ixmlNode_getPrefix( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getPreviousSibling	./node.c	/^ixmlNode_getPreviousSibling( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_getPreviousSibling	node.c	/^ixmlNode_getPreviousSibling( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_hasAttributes	./node.c	/^ixmlNode_hasAttributes( IXML_Node * nodeptr )$/;"	f
+ixmlNode_hasAttributes	node.c	/^ixmlNode_hasAttributes( IXML_Node * nodeptr )$/;"	f
+ixmlNode_hasChildNodes	./node.c	/^ixmlNode_hasChildNodes( IXML_Node * nodeptr )$/;"	f
+ixmlNode_hasChildNodes	node.c	/^ixmlNode_hasChildNodes( IXML_Node * nodeptr )$/;"	f
+ixmlNode_init	./node.c	/^ixmlNode_init( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_init	node.c	/^ixmlNode_init( IN IXML_Node * nodeptr )$/;"	f
+ixmlNode_insertBefore	./node.c	/^ixmlNode_insertBefore( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_insertBefore	node.c	/^ixmlNode_insertBefore( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_isAncestor	./node.c	/^ixmlNode_isAncestor( IXML_Node * ancestorNode,$/;"	f
+ixmlNode_isAncestor	node.c	/^ixmlNode_isAncestor( IXML_Node * ancestorNode,$/;"	f
+ixmlNode_isParent	./node.c	/^ixmlNode_isParent( IXML_Node * nodeptr,$/;"	f
+ixmlNode_isParent	node.c	/^ixmlNode_isParent( IXML_Node * nodeptr,$/;"	f
+ixmlNode_removeChild	./node.c	/^ixmlNode_removeChild( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_removeChild	node.c	/^ixmlNode_removeChild( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_replaceChild	./node.c	/^ixmlNode_replaceChild( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_replaceChild	node.c	/^ixmlNode_replaceChild( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_setLocalName	./node.c	/^ixmlNode_setLocalName( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_setLocalName	node.c	/^ixmlNode_setLocalName( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_setNamespaceURI	./node.c	/^ixmlNode_setNamespaceURI( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_setNamespaceURI	node.c	/^ixmlNode_setNamespaceURI( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_setNodeName	./node.c	/^ixmlNode_setNodeName( IN IXML_Node * node,$/;"	f
+ixmlNode_setNodeName	node.c	/^ixmlNode_setNodeName( IN IXML_Node * node,$/;"	f
+ixmlNode_setNodeProperties	./node.c	/^ixmlNode_setNodeProperties( IN IXML_Node * destNode,$/;"	f
+ixmlNode_setNodeProperties	node.c	/^ixmlNode_setNodeProperties( IN IXML_Node * destNode,$/;"	f
+ixmlNode_setNodeValue	./node.c	/^ixmlNode_setNodeValue( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_setNodeValue	node.c	/^ixmlNode_setNodeValue( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_setPrefix	./node.c	/^ixmlNode_setPrefix( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_setPrefix	node.c	/^ixmlNode_setPrefix( IN IXML_Node * nodeptr,$/;"	f
+ixmlNode_setSiblingNodesParent	./node.c	/^ixmlNode_setSiblingNodesParent( IXML_Node * nodeptr )$/;"	f
+ixmlNode_setSiblingNodesParent	node.c	/^ixmlNode_setSiblingNodesParent( IXML_Node * nodeptr )$/;"	f
+ixmlNodetoString	./ixml.c	/^ixmlNodetoString( IN IXML_Node * node )$/;"	f
+ixmlNodetoString	ixml.c	/^ixmlNodetoString( IN IXML_Node * node )$/;"	f
+ixmlParseBuffer	./ixml.c	/^ixmlParseBuffer( IN char *buffer )$/;"	f
+ixmlParseBuffer	ixml.c	/^ixmlParseBuffer( IN char *buffer )$/;"	f
+ixmlParseBufferEx	./ixml.c	/^ixmlParseBufferEx( IN char *buffer,$/;"	f
+ixmlParseBufferEx	ixml.c	/^ixmlParseBufferEx( IN char *buffer,$/;"	f
+ixmlPrintDocument	./ixml.h	1707;"	d
+ixmlPrintDocument	ixml.h	1707;"	d
+ixmlPrintDomTree	./ixml.c	/^ixmlPrintDomTree( IN IXML_Node * nodeptr,$/;"	f
+ixmlPrintDomTree	ixml.c	/^ixmlPrintDomTree( IN IXML_Node * nodeptr,$/;"	f
+ixmlPrintDomTreeRecursive	./ixml.c	/^ixmlPrintDomTreeRecursive( IN IXML_Node * nodeptr,$/;"	f
+ixmlPrintDomTreeRecursive	ixml.c	/^ixmlPrintDomTreeRecursive( IN IXML_Node * nodeptr,$/;"	f
+ixmlPrintNode	./ixml.c	/^ixmlPrintNode( IN IXML_Node * node )$/;"	f
+ixmlPrintNode	ixml.c	/^ixmlPrintNode( IN IXML_Node * node )$/;"	f
+ixmlRelaxParser	./ixml.c	/^ixmlRelaxParser(char errorChar)$/;"	f
+ixmlRelaxParser	ixml.c	/^ixmlRelaxParser(char errorChar)$/;"	f
+ixml_membuf	./ixmlmembuf.h	/^} ixml_membuf;$/;"	t	typeref:struct:__anon10
+ixml_membuf	ixmlmembuf.h	/^} ixml_membuf;$/;"	t	typeref:struct:__anon3
+ixml_membuf_append	./ixmlmembuf.c	/^ixml_membuf_append( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_append	ixmlmembuf.c	/^ixml_membuf_append( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_append_str	./ixmlmembuf.c	/^ixml_membuf_append_str( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_append_str	ixmlmembuf.c	/^ixml_membuf_append_str( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_assign	./ixmlmembuf.c	/^ixml_membuf_assign( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_assign	ixmlmembuf.c	/^ixml_membuf_assign( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_assign_str	./ixmlmembuf.c	/^ixml_membuf_assign_str( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_assign_str	ixmlmembuf.c	/^ixml_membuf_assign_str( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_destroy	./ixmlmembuf.c	/^ixml_membuf_destroy( INOUT ixml_membuf * m )$/;"	f
+ixml_membuf_destroy	ixmlmembuf.c	/^ixml_membuf_destroy( INOUT ixml_membuf * m )$/;"	f
+ixml_membuf_init	./ixmlmembuf.c	/^ixml_membuf_init( INOUT ixml_membuf * m )$/;"	f
+ixml_membuf_init	ixmlmembuf.c	/^ixml_membuf_init( INOUT ixml_membuf * m )$/;"	f
+ixml_membuf_insert	./ixmlmembuf.c	/^ixml_membuf_insert( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_insert	ixmlmembuf.c	/^ixml_membuf_insert( INOUT ixml_membuf * m,$/;"	f
+ixml_membuf_set_size	./ixmlmembuf.c	/^ixml_membuf_set_size( INOUT ixml_membuf * m,$/;"	f	file:
+ixml_membuf_set_size	ixmlmembuf.c	/^ixml_membuf_set_size( INOUT ixml_membuf * m,$/;"	f	file:
+l	./ixmlparser.c	/^    unsigned short l,$/;"	m	struct:char_info	file:
+l	ixmlparser.c	/^    unsigned short l,$/;"	m	struct:char_info	file:
+lastElem	./ixmlparser.h	/^    ixml_membuf     lastElem;$/;"	m	struct:_Parser
+lastElem	ixmlparser.h	/^    ixml_membuf     lastElem;$/;"	m	struct:_Parser
+length	./ixmlmembuf.h	/^	size_t	length;$/;"	m	struct:__anon10
+length	ixmlmembuf.h	/^	size_t	length;$/;"	m	struct:__anon3
+list_static_dhcp	./qsdk/qsdk.c	/^int list_static_dhcp(STATIC_DHCP_TABLE *dhcptable)$/;"	f
+localName	./ixml.h	/^    DOMString       localName;$/;"	m	struct:_IXML_Node
+localName	ixml.h	/^    DOMString       localName;$/;"	m	struct:_IXML_Node
+log	./openwrt/openwrt.c	44;"	d	file:
+log	./qsdk/qsdk.c	44;"	d	file:
+logfile	./connectmng.c	/^FILE *logfile;$/;"	v
+logfile	connectmng.c	/^FILE *logfile;$/;"	v
+mac	./route.h	/^	unsigned char mac[18];$/;"	m	struct:DhcpInfo
+mac	./route.h	/^    char mac[32];$/;"	m	struct:static_dhcp_entry_s
+mac	./route.h	/^    unsigned char mac[20];$/;"	m	struct:sta_mac_entry_s
+mac	route.h	/^	unsigned char mac[18];$/;"	m	struct:DhcpInfo
+mac	route.h	/^    char mac[32];$/;"	m	struct:static_dhcp_entry_s
+mac	route.h	/^    unsigned char mac[20];$/;"	m	struct:sta_mac_entry_s
+main	./connectmng.c	/^int main(int argc,char **argv)$/;"	f
+main	connectmng.c	/^int main(int argc,char **argv)$/;"	f
+main_socket	./connectmng.c	/^int main_socket = -1;$/;"	v
+main_socket	connectmng.c	/^int main_socket = -1;$/;"	v
+maxsta	./openwrt/openwrt.c	/^    int  maxsta;$/;"	m	struct:tagSSIDInfo	file:
+maxsta	./qsdk/qsdk.c	/^    int  maxsta;$/;"	m	struct:tagSSIDInfo	file:
+modify_static_dhcp	./qsdk/qsdk.c	/^int modify_static_dhcp(char *mac,char *ip)$/;"	f
+n	./ixml.h	/^    IXML_Node    n;$/;"	m	struct:_IXML_CDATASection
+n	./ixml.h	/^    IXML_Node    n;$/;"	m	struct:_IXML_Document
+n	./ixml.h	/^    IXML_Node   n;$/;"	m	struct:_IXML_ATTR
+n	./ixml.h	/^    IXML_Node   n;$/;"	m	struct:_IXML_Element
+n	./ixml.h	/^    IXML_Node   n;$/;"	m	struct:_IXML_Text
+n	ixml.h	/^    IXML_Node    n;$/;"	m	struct:_IXML_CDATASection
+n	ixml.h	/^    IXML_Node    n;$/;"	m	struct:_IXML_Document
+n	ixml.h	/^    IXML_Node   n;$/;"	m	struct:_IXML_ATTR
+n	ixml.h	/^    IXML_Node   n;$/;"	m	struct:_IXML_Element
+n	ixml.h	/^    IXML_Node   n;$/;"	m	struct:_IXML_Text
+namespaceURI	./ixml.h	/^    DOMString       namespaceURI;$/;"	m	struct:_IXML_Node
+namespaceURI	ixml.h	/^    DOMString       namespaceURI;$/;"	m	struct:_IXML_Node
+namespaceUri	./ixmlparser.h	/^    char                    *namespaceUri;$/;"	m	struct:_IXML_ElementStack
+namespaceUri	ixmlparser.h	/^    char                    *namespaceUri;$/;"	m	struct:_IXML_ElementStack
+next	./ixml.h	/^    struct  _IXML_NodeList *next;$/;"	m	struct:_IXML_NodeList	typeref:struct:_IXML_NodeList::_IXML_NodeList
+next	./ixml.h	/^    struct _IXML_NamedNodeMap *next;$/;"	m	struct:_IXML_NamedNodeMap	typeref:struct:_IXML_NamedNodeMap::_IXML_NamedNodeMap
+next	ixml.h	/^    struct  _IXML_NodeList *next;$/;"	m	struct:_IXML_NodeList	typeref:struct:_IXML_NodeList::_IXML_NodeList
+next	ixml.h	/^    struct _IXML_NamedNodeMap *next;$/;"	m	struct:_IXML_NamedNodeMap	typeref:struct:_IXML_NamedNodeMap::_IXML_NamedNodeMap
+nextElement	./ixmlparser.h	/^    struct _IXML_ElementStack    *nextElement;$/;"	m	struct:_IXML_ElementStack	typeref:struct:_IXML_ElementStack::_IXML_ElementStack
+nextElement	ixmlparser.h	/^    struct _IXML_ElementStack    *nextElement;$/;"	m	struct:_IXML_ElementStack	typeref:struct:_IXML_ElementStack::_IXML_ElementStack
+nextNsURI	./ixmlparser.h	/^    struct _IXML_NamespaceURI   *nextNsURI;$/;"	m	struct:_IXML_NamespaceURI	typeref:struct:_IXML_NamespaceURI::_IXML_NamespaceURI
+nextNsURI	ixmlparser.h	/^    struct _IXML_NamespaceURI   *nextNsURI;$/;"	m	struct:_IXML_NamespaceURI	typeref:struct:_IXML_NamespaceURI::_IXML_NamespaceURI
+nextSibling	./ixml.h	/^    Nodeptr         nextSibling;$/;"	m	struct:_IXML_Node
+nextSibling	ixml.h	/^    Nodeptr         nextSibling;$/;"	m	struct:_IXML_Node
+nodeItem	./ixml.h	/^    IXML_Node                 *nodeItem;$/;"	m	struct:_IXML_NamedNodeMap
+nodeItem	./ixml.h	/^    IXML_Node    *nodeItem;$/;"	m	struct:_IXML_NodeList
+nodeItem	ixml.h	/^    IXML_Node                 *nodeItem;$/;"	m	struct:_IXML_NamedNodeMap
+nodeItem	ixml.h	/^    IXML_Node    *nodeItem;$/;"	m	struct:_IXML_NodeList
+nodeName	./ixml.h	/^    DOMString       nodeName;$/;"	m	struct:_IXML_Node
+nodeName	ixml.h	/^    DOMString       nodeName;$/;"	m	struct:_IXML_Node
+nodeType	./ixml.h	/^    IXML_NODE_TYPE  nodeType;$/;"	m	struct:_IXML_Node
+nodeType	ixml.h	/^    IXML_NODE_TYPE  nodeType;$/;"	m	struct:_IXML_Node
+nodeValue	./ixml.h	/^    DOMString       nodeValue;$/;"	m	struct:_IXML_Node
+nodeValue	ixml.h	/^    DOMString       nodeValue;$/;"	m	struct:_IXML_Node
+nsURI	./ixmlparser.h	/^    char                        *nsURI;$/;"	m	struct:_IXML_NamespaceURI
+nsURI	ixmlparser.h	/^    char                        *nsURI;$/;"	m	struct:_IXML_NamespaceURI
+num	./openwrt/openwrt.c	/^    int num;$/;"	m	struct:tagPowerSaveList	file:
+num	./qsdk/qsdk.c	/^    int num;$/;"	m	struct:tagPowerSaveList	file:
+num	./route.h	/^    int num;$/;"	m	struct:static_dhcp_table_s
+num	route.h	/^    int num;$/;"	m	struct:static_dhcp_table_s
+onoff	./openwrt/openwrt.c	/^    int  onoff;$/;"	m	struct:tagSSIDInfo	file:
+onoff	./qsdk/qsdk.c	/^    int  onoff;$/;"	m	struct:tagSSIDInfo	file:
+ownerDocument	./ixml.h	/^    Docptr          ownerDocument;$/;"	m	struct:_IXML_Node
+ownerDocument	ixml.h	/^    Docptr          ownerDocument;$/;"	m	struct:_IXML_Node
+ownerElement	./ixml.h	/^    IXML_Element *ownerElement;$/;"	m	struct:_IXML_ATTR
+ownerElement	ixml.h	/^    IXML_Element *ownerElement;$/;"	m	struct:_IXML_ATTR
+pCurElement	./ixmlparser.h	/^    IXML_ElementStack   *pCurElement;$/;"	m	struct:_Parser
+pCurElement	ixmlparser.h	/^    IXML_ElementStack   *pCurElement;$/;"	m	struct:_Parser
+pNeedPrefixNode	./ixmlparser.h	/^    IXML_Node           *pNeedPrefixNode;$/;"	m	struct:_Parser
+pNeedPrefixNode	ixmlparser.h	/^    IXML_Node           *pNeedPrefixNode;$/;"	m	struct:_Parser
+pNsURI	./ixmlparser.h	/^    IXML_NamespaceURI            *pNsURI;$/;"	m	struct:_IXML_ElementStack
+pNsURI	ixmlparser.h	/^    IXML_NamespaceURI            *pNsURI;$/;"	m	struct:_IXML_ElementStack
+parentNode	./ixml.h	/^    Nodeptr         parentNode;$/;"	m	struct:_IXML_Node
+parentNode	ixml.h	/^    Nodeptr         parentNode;$/;"	m	struct:_IXML_Node
+power	./openwrt/openwrt.c	/^    int  power;$/;"	m	struct:tagSSIDInfo	file:
+power	./qsdk/qsdk.c	/^    int  power;$/;"	m	struct:tagSSIDInfo	file:
+prefix	./ixml.h	/^    DOMString       prefix;$/;"	m	struct:_IXML_Node
+prefix	./ixmlparser.h	/^    char                        *prefix;$/;"	m	struct:_IXML_NamespaceURI
+prefix	./ixmlparser.h	/^    char                    *prefix;$/;"	m	struct:_IXML_ElementStack
+prefix	ixml.h	/^    DOMString       prefix;$/;"	m	struct:_IXML_Node
+prefix	ixmlparser.h	/^    char                        *prefix;$/;"	m	struct:_IXML_NamespaceURI
+prefix	ixmlparser.h	/^    char                    *prefix;$/;"	m	struct:_IXML_ElementStack
+prevSibling	./ixml.h	/^    Nodeptr         prevSibling;$/;"	m	struct:_IXML_Node
+prevSibling	ixml.h	/^    Nodeptr         prevSibling;$/;"	m	struct:_IXML_Node
+process	./connectmng.c	/^    int (*process)(int socket,void *args);$/;"	m	struct:cmd_process_s	file:
+process	connectmng.c	/^    int (*process)(int socket,void *args);$/;"	m	struct:cmd_process_s	file:
+process_cmd	./connectmng.c	/^int process_cmd(int socket,char *buffer)$/;"	f
+process_cmd	connectmng.c	/^int process_cmd(int socket,char *buffer)$/;"	f
+process_packet	./connectmng.c	/^int process_packet(int socket)$/;"	f
+process_packet	connectmng.c	/^int process_packet(int socket)$/;"	f
+r_thread_fd	./connectmng.c	/^    int r_thread_fd;$/;"	m	struct:tcp_client_s	file:
+r_thread_fd	connectmng.c	/^    int r_thread_fd;$/;"	m	struct:tcp_client_s	file:
+racat	./ralink/ramng.c	/^char *racat(char *s, int i)$/;"	f
+readOnly	./ixml.h	/^    BOOL            readOnly;$/;"	m	struct:_IXML_Node
+readOnly	ixml.h	/^    BOOL            readOnly;$/;"	m	struct:_IXML_Node
+reboot	./connectmng.c	/^int reboot(int socket,void *args)$/;"	f
+reboot	connectmng.c	/^int reboot(int socket,void *args)$/;"	f
+repeatMode	./openwrt/openwrt.c	/^    int  repeatMode;   \/*mask 方式来定义星期*\/$/;"	m	struct:tagPowerSaveMode	file:
+repeatMode	./qsdk/qsdk.c	/^    int  repeatMode;   \/*mask 方式来定义星期*\/$/;"	m	struct:tagPowerSaveMode	file:
+response	./connectmng.c	/^int response(int socket,struct xmldoc *result)$/;"	f
+response	connectmng.c	/^int response(int socket,struct xmldoc *result)$/;"	f
+restart_network	./openwrt/openwrt.c	/^void restart_network()$/;"	f
+restart_network	./qsdk/qsdk.c	/^void restart_network()$/;"	f
+restart_network	./ralink/ramng.c	/^void restart_network(void)$/;"	f
+restartnetwork	./connectmng.c	/^int restartnetwork(int socket,void *args)$/;"	f
+restartnetwork	connectmng.c	/^int restartnetwork(int socket,void *args)$/;"	f
+restoredefault	./connectmng.c	/^int restoredefault(int socket,void *args)$/;"	f
+restoredefault	connectmng.c	/^int restoredefault(int socket,void *args)$/;"	f
+result	./connectmng.c	/^    struct xmldoc *result;$/;"	m	struct:xmlinfo_s	typeref:struct:xmlinfo_s::xmldoc	file:
+result	connectmng.c	/^    struct xmldoc *result;$/;"	m	struct:xmlinfo_s	typeref:struct:xmlinfo_s::xmldoc	file:
+root_node	./connectmng.c	/^    struct xmlelement *root_node;$/;"	m	struct:xmlinfo_s	typeref:struct:xmlinfo_s::xmlelement	file:
+root_node	connectmng.c	/^    struct xmlelement *root_node;$/;"	m	struct:xmlinfo_s	typeref:struct:xmlinfo_s::xmlelement	file:
+rssi	./route.h	/^	unsigned char rssi[4];$/;"	m	struct:sta_mac_entry_s
+rssi	route.h	/^	unsigned char rssi[4];$/;"	m	struct:sta_mac_entry_s
+rsv	./ralink/ramng.h	/^		unsigned short	rsv:1;$/;"	m	struct:_MACHTTRANSMIT_SETTING::__anon7
+rxrate	./route.h	/^	unsigned char rxrate[8];$/;"	m	struct:sta_mac_entry_s
+rxrate	route.h	/^	unsigned char rxrate[8];$/;"	m	struct:sta_mac_entry_s
+savePtr	./ixmlparser.h	/^    char            *savePtr;		\/\/Saves for backup$/;"	m	struct:_Parser
+savePtr	ixmlparser.h	/^    char            *savePtr;		\/\/Saves for backup$/;"	m	struct:_Parser
+scan_ap_table_s	./route.h	/^typedef struct scan_ap_table_s{$/;"	s
+scan_ap_table_s	route.h	/^typedef struct scan_ap_table_s{$/;"	s
+scanwifi	./connectmng.c	/^int scanwifi(int socket,void *args)$/;"	f
+scanwifi	connectmng.c	/^int scanwifi(int socket,void *args)$/;"	f
+setConnectMode	./openwrt/openwrt.c	/^int setConnectMode(int mode)$/;"	f
+setConnectMode	./qsdk/qsdk.c	/^int setConnectMode(int mode)$/;"	f
+setNthValue	./ralink/ramng.c	/^char *setNthValue(int index, char *old_values, char *new_value)$/;"	f
+setWiFiinfo	./openwrt/openwrt.c	/^int setWiFiinfo(SSIDInfo *ssidinfo)$/;"	f
+setWiFiinfo	./qsdk/qsdk.c	/^int setWiFiinfo(SSIDInfo *ssidinfo)$/;"	f
+setWirelessReapter	./openwrt/openwrt.c	/^int setWirelessReapter(int status,char *ssid,char *bssid,char *channel,char *auth,char *encry,char *key)$/;"	f
+setWirelessReapter	./qsdk/qsdk.c	/^int setWirelessReapter(int status,char *ssid,char *bssid,char *channel,char *auth,char *encry,char *key)$/;"	f
+set_admin	./openwrt/openwrt.c	/^int set_admin(char *usr,char *pwd)$/;"	f
+set_admin	./qsdk/qsdk.c	/^int set_admin(char *usr,char *pwd)$/;"	f
+set_admin	./ralink/ramng.c	/^int set_admin(char *admuser,char *admpass)$/;"	f
+set_admin	./test/test.c	/^int set_admin(char *admuser,char *admpass)$/;"	f
+set_default	./openwrt/openwrt.c	/^int set_default()$/;"	f
+set_default	./qsdk/qsdk.c	/^int set_default()$/;"	f
+set_default	./ralink/ramng.c	/^int set_default(void)$/;"	f
+set_default	./test/test.c	/^int set_default()$/;"	f
+set_dhcpmode	./openwrt/openwrt.c	/^int set_dhcpmode()$/;"	f
+set_dhcpmode	./qsdk/qsdk.c	/^int set_dhcpmode()$/;"	f
+set_dhcpmode	./ralink/ramng.c	/^int set_dhcpmode()$/;"	f
+set_dhcpmode	./test/test.c	/^int set_dhcpmode()$/;"	f
+set_pppoe	./openwrt/openwrt.c	/^int set_pppoe(char *usr,char *pwd)$/;"	f
+set_pppoe	./qsdk/qsdk.c	/^int set_pppoe(char *usr,char *pwd)$/;"	f
+set_pppoe	./ralink/ramng.c	/^int set_pppoe(char* strUser,char *strPwd)$/;"	f
+set_pppoe	./test/test.c	/^int set_pppoe(char* strUser,char *strPwd)$/;"	f
+set_ssid	./openwrt/openwrt.c	/^int set_ssid(int index,char *strSsid,char *strSwitch,char *strHide,$/;"	f
+set_ssid	./qsdk/qsdk.c	/^int set_ssid(int index,char *strSsid,char *strSwitch,char *strHide,$/;"	f
+set_ssid	./ralink/ramng.c	/^int set_ssid(int index,char *strSsid,char *strSwitch,char *strHide,$/;"	f
+set_ssid	./test/test.c	/^int set_ssid(int index,char *strSsid,char *strSwitch,char *strHide,$/;"	f
+set_staticmode	./openwrt/openwrt.c	/^int set_staticmode(char *strIp,char *strNetmask,char *strGateway,$/;"	f
+set_staticmode	./qsdk/qsdk.c	/^int set_staticmode(char *strIp,char *strNetmask,char *strGateway,$/;"	f
+set_staticmode	./ralink/ramng.c	/^int set_staticmode(char *strIP,char *strNetmask,char*strGateway,char *strDNS1,char *strDNS2)$/;"	f
+set_staticmode	./test/test.c	/^int set_staticmode(char *strIP,char *strNetmask,char*strGateway,char *strDNS1,char *strDNS2)$/;"	f
+set_wan_bridge	./qsdk/qsdk.c	/^int set_wan_bridge(char *domain)$/;"	f
+set_wifi_basic	./openwrt/openwrt.c	/^int set_wifi_basic(char *channel,char *strenth)$/;"	f
+set_wifi_basic	./qsdk/qsdk.c	/^int set_wifi_basic(char *channel,char *strenth,char *strCountry)$/;"	f
+set_wifi_basic	./ralink/ramng.c	/^int set_wifi_basic(char *channel,char *strenth)$/;"	f
+set_wifi_basic	./test/test.c	/^int set_wifi_basic(char *channel,char *strenth)$/;"	f
+setcmd	./connectmng.c	/^cmd_process setcmd[] = {$/;"	v
+setcmd	connectmng.c	/^cmd_process setcmd[] = {$/;"	v
+setscanstart	./connectmng.c	/^int setscanstart(int socket,void *args)$/;"	f
+setscanstart	connectmng.c	/^int setscanstart(int socket,void *args)$/;"	f
+setssid	./connectmng.c	/^int setssid(int socket,void *args)$/;"	f
+setssid	connectmng.c	/^int setssid(int socket,void *args)$/;"	f
+setstaticdhcp	./connectmng.c	/^int setstaticdhcp(int socket,void *args)$/;"	f
+setstaticdhcp	connectmng.c	/^int setstaticdhcp(int socket,void *args)$/;"	f
+setuser	./connectmng.c	/^int setuser(int socket,void *args)$/;"	f
+setuser	connectmng.c	/^int setuser(int socket,void *args)$/;"	f
+setwan	./connectmng.c	/^int setwan(int socket,void *args)$/;"	f
+setwan	connectmng.c	/^int setwan(int socket,void *args)$/;"	f
+setwirelesscode	./connectmng.c	/^int setwirelesscode(int socket,void *args)$/;"	f
+setwirelesscode	connectmng.c	/^int setwirelesscode(int socket,void *args)$/;"	f
+setwps	./connectmng.c	/^int setwps(int socket,void *args)$/;"	f
+setwps	connectmng.c	/^int setwps(int socket,void *args)$/;"	f
+signal	./route.h	/^    char signal[32];$/;"	m	struct:ap_info_entry_s
+signal	route.h	/^    char signal[32];$/;"	m	struct:ap_info_entry_s
+size_inc	./ixmlmembuf.h	/^	size_t	size_inc;$/;"	m	struct:__anon10
+size_inc	ixmlmembuf.h	/^	size_t	size_inc;$/;"	m	struct:__anon3
+sleepinfo	./openwrt/openwrt.c	/^    PowerSaveMode sleepinfo[32];$/;"	m	struct:tagPowerSaveList	file:
+sleepinfo	./qsdk/qsdk.c	/^    PowerSaveMode sleepinfo[32];$/;"	m	struct:tagPowerSaveList	file:
+sleeplist	./openwrt/openwrt.c	/^    PowerSaveList sleeplist;$/;"	m	struct:tagSSIDInfo	file:
+sleeplist	./qsdk/qsdk.c	/^    PowerSaveList sleeplist;$/;"	m	struct:tagSSIDInfo	file:
+sleeptime	./openwrt/openwrt.c	/^    char sleeptime[32];$/;"	m	struct:tagPowerSaveMode	file:
+sleeptime	./qsdk/qsdk.c	/^    char sleeptime[32];$/;"	m	struct:tagPowerSaveMode	file:
+specified	./ixml.h	/^    BOOL        specified;$/;"	m	struct:_IXML_ATTR
+specified	ixml.h	/^    BOOL        specified;$/;"	m	struct:_IXML_ATTR
+ssid	./route.h	/^    char ssid[64];$/;"	m	struct:ap_info_entry_s
+ssid	route.h	/^    char ssid[64];$/;"	m	struct:ap_info_entry_s
+ssidname	./openwrt/openwrt.c	/^    char ssidname[32];$/;"	m	struct:tagSSIDInfo	file:
+ssidname	./qsdk/qsdk.c	/^    char ssidname[32];$/;"	m	struct:tagSSIDInfo	file:
+ssidpwd	./openwrt/openwrt.c	/^    char ssidpwd[64];$/;"	m	struct:tagSSIDInfo	file:
+ssidpwd	./qsdk/qsdk.c	/^    char ssidpwd[64];$/;"	m	struct:tagSSIDInfo	file:
+sta_mac_entry_s	./route.h	/^typedef struct sta_mac_entry_s{$/;"	s
+sta_mac_entry_s	route.h	/^typedef struct sta_mac_entry_s{$/;"	s
+sta_mac_table_s	./route.h	/^typedef struct sta_mac_table_s{$/;"	s
+sta_mac_table_s	route.h	/^typedef struct sta_mac_table_s{$/;"	s
+state	./ixmlparser.h	/^    PARSER_STATE        state;$/;"	m	struct:_Parser
+state	ixmlparser.h	/^    PARSER_STATE        state;$/;"	m	struct:_Parser
+static_dhcp_entry	./route.h	/^}static_dhcp_entry;$/;"	t	typeref:struct:static_dhcp_entry_s
+static_dhcp_entry	route.h	/^}static_dhcp_entry;$/;"	t	typeref:struct:static_dhcp_entry_s
+static_dhcp_entry_s	./route.h	/^typedef struct static_dhcp_entry_s{$/;"	s
+static_dhcp_entry_s	route.h	/^typedef struct static_dhcp_entry_s{$/;"	s
+static_dhcp_table_s	./route.h	/^typedef struct static_dhcp_table_s{$/;"	s
+static_dhcp_table_s	route.h	/^typedef struct static_dhcp_table_s{$/;"	s
+sysreboot	./openwrt/openwrt.c	/^void sysreboot()$/;"	f
+sysreboot	./qsdk/qsdk.c	/^void sysreboot()$/;"	f
+sysreboot	./ralink/ramng.c	/^void sysreboot(void)$/;"	f
+systemupgrade	./openwrt/openwrt.c	/^void  systemupgrade(char *imagename,char *md5,char *version,char *needclear)$/;"	f
+systemupgrade	./qsdk/qsdk.c	/^void  systemupgrade(char *imagename,char *md5,char *version,char *needclear)$/;"	f
+syswps	./qsdk/qsdk.c	/^void syswps()$/;"	f
+tagName	./ixml.h	/^    DOMString   tagName;$/;"	m	struct:_IXML_Element
+tagName	ixml.h	/^    DOMString   tagName;$/;"	m	struct:_IXML_Element
+tagPowerSaveList	./openwrt/openwrt.c	/^typedef struct tagPowerSaveList$/;"	s	file:
+tagPowerSaveList	./qsdk/qsdk.c	/^typedef struct tagPowerSaveList$/;"	s	file:
+tagPowerSaveMode	./openwrt/openwrt.c	/^typedef struct tagPowerSaveMode$/;"	s	file:
+tagPowerSaveMode	./qsdk/qsdk.c	/^typedef struct tagPowerSaveMode$/;"	s	file:
+tagSSIDInfo	./openwrt/openwrt.c	/^typedef struct tagSSIDInfo$/;"	s	file:
+tagSSIDInfo	./qsdk/qsdk.c	/^typedef struct tagSSIDInfo$/;"	s	file:
+tcp_client	./connectmng.c	/^}tcp_client;$/;"	t	typeref:struct:tcp_client_s	file:
+tcp_client	connectmng.c	/^}tcp_client;$/;"	t	typeref:struct:tcp_client_s	file:
+tcp_client_s	./connectmng.c	/^typedef struct tcp_client_s$/;"	s	file:
+tcp_client_s	connectmng.c	/^typedef struct tcp_client_s$/;"	s	file:
+tcp_client_thread	./connectmng.c	/^void *tcp_client_thread(void *param)$/;"	f
+tcp_client_thread	connectmng.c	/^void *tcp_client_thread(void *param)$/;"	f
+to_idoc	./xmldoc.c	/^static IXML_Document *to_idoc(struct xmldoc *x) {$/;"	f	file:
+to_idoc	xmldoc.c	/^static IXML_Document *to_idoc(struct xmldoc *x) {$/;"	f	file:
+to_ielem	./xmldoc.c	/^static IXML_Element *to_ielem(struct xmlelement *x) {$/;"	f	file:
+to_ielem	xmldoc.c	/^static IXML_Element *to_ielem(struct xmlelement *x) {$/;"	f	file:
+tokenBuf	./ixmlparser.h	/^    ixml_membuf     tokenBuf;    $/;"	m	struct:_Parser
+tokenBuf	ixmlparser.h	/^    ixml_membuf     tokenBuf;    $/;"	m	struct:_Parser
+upgrade	./connectmng.c	/^int upgrade(int socket,void *args)$/;"	f
+upgrade	connectmng.c	/^int upgrade(int socket,void *args)$/;"	f
+utf8char	./ixmlparser.c	/^typedef char utf8char[8];$/;"	t	file:
+utf8char	ixmlparser.c	/^typedef char utf8char[8];$/;"	t	file:
+wakeuptime	./openwrt/openwrt.c	/^    char wakeuptime[32];$/;"	m	struct:tagPowerSaveMode	file:
+wakeuptime	./qsdk/qsdk.c	/^    char wakeuptime[32];$/;"	m	struct:tagPowerSaveMode	file:
+wifibasic	./connectmng.c	/^int wifibasic(int socket,void *args)$/;"	f
+wifibasic	connectmng.c	/^int wifibasic(int socket,void *args)$/;"	f
+wifirepeater	./connectmng.c	/^int wifirepeater(int socket,void *args)$/;"	f
+wifirepeater	connectmng.c	/^int wifirepeater(int socket,void *args)$/;"	f
+word	./ralink/ramng.h	/^	unsigned short      word;$/;"	m	union:_MACHTTRANSMIT_SETTING
+xmldoc	./xmldoc.c	/^struct xmldoc {};$/;"	s	file:
+xmldoc	xmldoc.c	/^struct xmldoc {};$/;"	s	file:
+xmldoc_free	./xmldoc.c	/^void xmldoc_free(struct xmldoc *doc)$/;"	f
+xmldoc_free	xmldoc.c	/^void xmldoc_free(struct xmldoc *doc)$/;"	f
+xmldoc_new	./xmldoc.c	/^struct xmldoc *xmldoc_new(void)$/;"	f
+xmldoc_new	xmldoc.c	/^struct xmldoc *xmldoc_new(void)$/;"	f
+xmldoc_new_topelement	./xmldoc.c	/^struct xmlelement *xmldoc_new_topelement(struct xmldoc *doc,$/;"	f
+xmldoc_new_topelement	xmldoc.c	/^struct xmlelement *xmldoc_new_topelement(struct xmldoc *doc,$/;"	f
+xmldoc_parsexml	./xmldoc.c	/^struct xmldoc *xmldoc_parsexml(const char *xml_text) {$/;"	f
+xmldoc_parsexml	xmldoc.c	/^struct xmldoc *xmldoc_parsexml(const char *xml_text) {$/;"	f
+xmldoc_tostring	./xmldoc.c	/^char *xmldoc_tostring(struct xmldoc *doc)$/;"	f
+xmldoc_tostring	xmldoc.c	/^char *xmldoc_tostring(struct xmldoc *doc)$/;"	f
+xmlelement	./xmldoc.c	/^struct xmlelement {};$/;"	s	file:
+xmlelement	xmldoc.c	/^struct xmlelement {};$/;"	s	file:
+xmlelement_add_element	./xmldoc.c	/^void xmlelement_add_element(struct xmldoc *doc,$/;"	f
+xmlelement_add_element	xmldoc.c	/^void xmlelement_add_element(struct xmldoc *doc,$/;"	f
+xmlelement_add_text	./xmldoc.c	/^void xmlelement_add_text(struct xmldoc *doc,$/;"	f
+xmlelement_add_text	xmldoc.c	/^void xmlelement_add_text(struct xmldoc *doc,$/;"	f
+xmlelement_new	./xmldoc.c	/^struct xmlelement *xmlelement_new(struct xmldoc *doc, const char *elementName)$/;"	f
+xmlelement_new	xmldoc.c	/^struct xmlelement *xmlelement_new(struct xmldoc *doc, const char *elementName)$/;"	f
+xmlelement_set_attribute	./xmldoc.c	/^void xmlelement_set_attribute(struct xmldoc *doc,$/;"	f
+xmlelement_set_attribute	xmldoc.c	/^void xmlelement_set_attribute(struct xmldoc *doc,$/;"	f
+xmlinfo	./connectmng.c	/^}xmlinfo;$/;"	t	typeref:struct:xmlinfo_s	file:
+xmlinfo	connectmng.c	/^}xmlinfo;$/;"	t	typeref:struct:xmlinfo_s	file:
+xmlinfo_s	./connectmng.c	/^typedef struct xmlinfo_s{$/;"	s	file:
+xmlinfo_s	connectmng.c	/^typedef struct xmlinfo_s{$/;"	s	file:
